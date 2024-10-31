@@ -1,0 +1,6543 @@
+{
+    "Hisseler": [
+        {
+            "HisseKodu": "MMM",
+            "Tahmin": 133.61,
+            "buysell": "sat",
+            "GercekDegerler": [
+                133.18,
+                134.61,
+                133.57,
+                133.36,
+                133.84
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AOS",
+            "Tahmin": 81.24,
+            "buysell": "sat",
+            "GercekDegerler": [
+                79.97,
+                81.7,
+                82.47,
+                82.89,
+                84.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ABT",
+            "Tahmin": 115.74,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                116.4,
+                117.63,
+                118.13,
+                114.88,
+                114.15
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ABBV",
+            "Tahmin": 193.88,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                194.21,
+                195.73,
+                193.45,
+                192.94,
+                193.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ACN",
+            "Tahmin": 342.61,
+            "buysell": "al",
+            "GercekDegerler": [
+                349.58,
+                354.12,
+                337.04,
+                336.18,
+                335.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ADBE",
+            "Tahmin": 517.83,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                536.87,
+                521.5,
+                515.03,
+                508.13,
+                526.44
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AMD",
+            "Tahmin": 150.76,
+            "buysell": "sat",
+            "GercekDegerler": [
+                152.31,
+                152.08,
+                150.82,
+                148.29,
+                156.74
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AES",
+            "Tahmin": 18.81,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                18.54,
+                19.01,
+                19.24,
+                19.26,
+                18.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AFL",
+            "Tahmin": 108.75,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                108.59,
+                110.17,
+                109.56,
+                108.96,
+                107.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "A",
+            "Tahmin": 138.33,
+            "buysell": "sat",
+            "GercekDegerler": [
+                137.31,
+                138.31,
+                138.35,
+                139.01,
+                141.95
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "APD",
+            "Tahmin": 286.72,
+            "buysell": "sat",
+            "GercekDegerler": [
+                284.13,
+                288.87,
+                291.13,
+                287.3,
+                287.72
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ABNB",
+            "Tahmin": 119.43,
+            "buysell": "sat",
+            "GercekDegerler": [
+                117.75,
+                117.55,
+                122.12,
+                122.42,
+                128.75
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AKAM",
+            "Tahmin": 98.03,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                98.53,
+                99.29,
+                97.87,
+                97.41,
+                99.44
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ALB",
+            "Tahmin": 87.68,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                87.44,
+                89.35,
+                89.82,
+                86.59,
+                89.33
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ARE",
+            "Tahmin": 123.33,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                124.42,
+                124.71,
+                124.01,
+                123.86,
+                122.22
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ALGN",
+            "Tahmin": 247.28,
+            "buysell": "sat",
+            "GercekDegerler": [
+                243.73,
+                249.56,
+                253.16,
+                253.01,
+                257.17
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ALLE",
+            "Tahmin": 142.05,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                141.17,
+                142.72,
+                143.37,
+                143.42,
+                143.75
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LNT",
+            "Tahmin": 59.95,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                59.65,
+                60.51,
+                60.31,
+                60.33,
+                59.75
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ALL",
+            "Tahmin": 189.32,
+            "buysell": "sat",
+            "GercekDegerler": [
+                188.3,
+                190.56,
+                190.26,
+                191.01,
+                190.68
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GOOGL",
+            "Tahmin": 158.61,
+            "buysell": "sat",
+            "GercekDegerler": [
+                157.46,
+                158.06,
+                159.32,
+                159.81,
+                162.14
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GOOG",
+            "Tahmin": 159.49,
+            "buysell": "sat",
+            "GercekDegerler": [
+                158.37,
+                158.99,
+                160.28,
+                160.81,
+                163.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MO",
+            "Tahmin": 51.05,
+            "buysell": "al",
+            "GercekDegerler": [
+                52.96,
+                51.7,
+                50.5,
+                50.63,
+                50.23
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AMZN",
+            "Tahmin": 186.11,
+            "buysell": "sat",
+            "GercekDegerler": [
+                186.49,
+                184.89,
+                186.88,
+                186.43,
+                189.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AMCR",
+            "Tahmin": 11.03,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                10.99,
+                11.12,
+                10.99,
+                11.01,
+                11.11
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AEE",
+            "Tahmin": 84.31,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                83.99,
+                85.47,
+                85.02,
+                84.62,
+                83.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AAL",
+            "Tahmin": 10.83,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                10.69,
+                10.81,
+                11.17,
+                11.03,
+                11.11
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AEP",
+            "Tahmin": 103.01,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                104.17,
+                104.95,
+                104.21,
+                103.22,
+                101.74
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AXP",
+            "Tahmin": 261.73,
+            "buysell": "sat",
+            "GercekDegerler": [
+                259,
+                261.09,
+                265.4,
+                262.18,
+                268.75
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AIG",
+            "Tahmin": 73.28,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                73.11,
+                73,
+                73.6,
+                73.3,
+                73.89
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AMT",
+            "Tahmin": 235.65,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                238.5,
+                240.32,
+                239.45,
+                235.95,
+                232.31
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AWK",
+            "Tahmin": 148.63,
+            "buysell": "sat",
+            "GercekDegerler": [
+                148.13,
+                149.09,
+                149.9,
+                148.94,
+                149.08
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AMP",
+            "Tahmin": 446.5,
+            "buysell": "sat",
+            "GercekDegerler": [
+                440.39,
+                445.14,
+                452.23,
+                451.33,
+                463.74
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AME",
+            "Tahmin": 168.55,
+            "buysell": "sat",
+            "GercekDegerler": [
+                167.51,
+                168.35,
+                168.57,
+                169.43,
+                172.25
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AMGN",
+            "Tahmin": 333.14,
+            "buysell": "sat",
+            "GercekDegerler": [
+                332.45,
+                335.26,
+                332.8,
+                332.92,
+                335.95
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "APH",
+            "Tahmin": 63.72,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                63.58,
+                63.27,
+                63.99,
+                63.3,
+                65.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ADI",
+            "Tahmin": 225.55,
+            "buysell": "sat",
+            "GercekDegerler": [
+                225.42,
+                223.28,
+                225.35,
+                222.64,
+                233.45
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ANSS",
+            "Tahmin": 316.18,
+            "buysell": "sat",
+            "GercekDegerler": [
+                318.51,
+                318.05,
+                317.25,
+                313.39,
+                322.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AON",
+            "Tahmin": 348.42,
+            "buysell": "notr",
+            "GercekDegerler": [
+                347.85,
+                350.69,
+                349.2,
+                349.31,
+                346.97
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "APA",
+            "Tahmin": 24.35,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                23.94,
+                24.44,
+                25.25,
+                25.11,
+                25.36
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AAPL",
+            "Tahmin": 220.12,
+            "buysell": "sat",
+            "GercekDegerler": [
+                222.5,
+                216.32,
+                216.79,
+                220.69,
+                228.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AMAT",
+            "Tahmin": 188.39,
+            "buysell": "sat",
+            "GercekDegerler": [
+                188.47,
+                187.58,
+                188.59,
+                186.14,
+                196.71
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "APTV",
+            "Tahmin": 69.29,
+            "buysell": "sat",
+            "GercekDegerler": [
+                68.95,
+                68.79,
+                70.22,
+                69.67,
+                70.52
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ACGL",
+            "Tahmin": 112.3,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                112.02,
+                114.22,
+                113.96,
+                113.04,
+                111.42
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ADM",
+            "Tahmin": 60.72,
+            "buysell": "sat",
+            "GercekDegerler": [
+                60.39,
+                60.41,
+                60.46,
+                60.53,
+                62.45
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ANET",
+            "Tahmin": 361.35,
+            "buysell": "sat",
+            "GercekDegerler": [
+                359.76,
+                359.16,
+                360.95,
+                361.71,
+                379.32
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AJG",
+            "Tahmin": 290.18,
+            "buysell": "al",
+            "GercekDegerler": [
+                297.39,
+                299.55,
+                295.94,
+                291.18,
+                282.2
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AIZ",
+            "Tahmin": 193.33,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                192.24,
+                192.92,
+                195.74,
+                193.82,
+                194.02
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "T",
+            "Tahmin": 21.64,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                21.64,
+                22.27,
+                21.78,
+                21.73,
+                21.36
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ATO",
+            "Tahmin": 136.99,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                136.97,
+                138.27,
+                138.15,
+                136.53,
+                136.25
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ADSK",
+            "Tahmin": 265.5,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                263.96,
+                267.73,
+                266.89,
+                264.21,
+                269.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ADP",
+            "Tahmin": 277.33,
+            "buysell": "notr",
+            "GercekDegerler": [
+                277.51,
+                278.6,
+                279.41,
+                275.91,
+                277.69
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AZO",
+            "Tahmin": 3075.45,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                3123.36,
+                3101.04,
+                3078.31,
+                3074.71,
+                3040.09
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AVB",
+            "Tahmin": 231.7,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                234.75,
+                232.86,
+                230.79,
+                230.41,
+                230.55
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AVY",
+            "Tahmin": 214.49,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                219.42,
+                221.04,
+                220.2,
+                209.36,
+                215.77
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AXON",
+            "Tahmin": 381.91,
+            "buysell": "sat",
+            "GercekDegerler": [
+                379.61,
+                385.77,
+                382.57,
+                383.01,
+                389.74
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BKR",
+            "Tahmin": 34.12,
+            "buysell": "sat",
+            "GercekDegerler": [
+                33.4,
+                33.98,
+                34.73,
+                34.67,
+                36.36
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BALL",
+            "Tahmin": 66.36,
+            "buysell": "sat",
+            "GercekDegerler": [
+                66,
+                67,
+                67.22,
+                66.52,
+                67.11
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BAC",
+            "Tahmin": 39.22,
+            "buysell": "sat",
+            "GercekDegerler": [
+                38.65,
+                39.1,
+                39.55,
+                39.62,
+                40.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BK",
+            "Tahmin": 69.77,
+            "buysell": "sat",
+            "GercekDegerler": [
+                68.7,
+                70.53,
+                70.81,
+                71.04,
+                71.72
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BBWI",
+            "Tahmin": 27.89,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                27.21,
+                28.91,
+                29.16,
+                29.71,
+                29.92
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BAX",
+            "Tahmin": 39.43,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                39.72,
+                40.26,
+                39.81,
+                39.37,
+                38.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BDX",
+            "Tahmin": 232.3,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                234.18,
+                234.04,
+                231.27,
+                231.59,
+                234.63
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BRK.B",
+            "Tahmin": 450.55,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                447.61,
+                451.78,
+                456.68,
+                456.6,
+                459.71
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BBY",
+            "Tahmin": 98.74,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                98.45,
+                98.79,
+                99.48,
+                99.07,
+                98.46
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BIO",
+            "Tahmin": 330.16,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                326.22,
+                330.26,
+                333.66,
+                340.45,
+                344.6
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TECH",
+            "Tahmin": 75.39,
+            "buysell": "sat",
+            "GercekDegerler": [
+                74.67,
+                74.76,
+                75.28,
+                76.51,
+                80.36
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BIIB",
+            "Tahmin": 197.5,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                195.63,
+                199.58,
+                198.21,
+                197.59,
+                201.44
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BLK",
+            "Tahmin": 900.09,
+            "buysell": "sat",
+            "GercekDegerler": [
+                885.73,
+                895.18,
+                904.52,
+                922.71,
+                934.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BX",
+            "Tahmin": 153.45,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                151.19,
+                154.56,
+                155.05,
+                154.93,
+                159.66
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BA",
+            "Tahmin": 155.34,
+            "buysell": "al",
+            "GercekDegerler": [
+                156.77,
+                155.55,
+                156.39,
+                155.11,
+                154.59
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BKNG",
+            "Tahmin": 3966.19,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                3932.59,
+                3979,
+                4042.43,
+                4028.3,
+                4017.51
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BWA",
+            "Tahmin": 32.61,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                32.21,
+                32.2,
+                32.9,
+                32.73,
+                34.11
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BSX",
+            "Tahmin": 82.92,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                83.31,
+                83.51,
+                82.52,
+                82.57,
+                83.71
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BMY",
+            "Tahmin": 49.37,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                49.13,
+                49.99,
+                49.49,
+                49.74,
+                49.02
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "AVGO",
+            "Tahmin": 163.62,
+            "buysell": "sat",
+            "GercekDegerler": [
+                167.69,
+                164.02,
+                162.47,
+                161.67,
+                167.42
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BR",
+            "Tahmin": 210.09,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                211.95,
+                211.64,
+                210.96,
+                208.59,
+                208.99
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BRO",
+            "Tahmin": 102.5,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                103.13,
+                104.11,
+                103.2,
+                102.51,
+                101.45
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BF.B",
+            "Tahmin": 46.84,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                46.46,
+                46.62,
+                47.04,
+                47.69,
+                47.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BLDR",
+            "Tahmin": 186.79,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                183.3,
+                187.65,
+                193.89,
+                194.52,
+                201.83
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BG",
+            "Tahmin": 97.78,
+            "buysell": "sat",
+            "GercekDegerler": [
+                97.38,
+                97.29,
+                97.69,
+                97.71,
+                100.36
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BXP",
+            "Tahmin": 80.7,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                80.06,
+                81.5,
+                80.41,
+                81.29,
+                82.31
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CDNS",
+            "Tahmin": 271.2,
+            "buysell": "sat",
+            "GercekDegerler": [
+                268.72,
+                273.13,
+                274.79,
+                269.69,
+                280.35
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CZR",
+            "Tahmin": 39.56,
+            "buysell": "sat",
+            "GercekDegerler": [
+                38.87,
+                39.43,
+                40.25,
+                40.27,
+                41.58
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CPT",
+            "Tahmin": 124.73,
+            "buysell": "sat",
+            "GercekDegerler": [
+                125.6,
+                124.93,
+                123.99,
+                125.25,
+                126.66
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CPB",
+            "Tahmin": 51.09,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                51.09,
+                51.56,
+                51.52,
+                51.08,
+                50.84
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "COF",
+            "Tahmin": 142.62,
+            "buysell": "sat",
+            "GercekDegerler": [
+                138.97,
+                140.95,
+                145.08,
+                145.43,
+                153.05
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CAH",
+            "Tahmin": 111.73,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                113.17,
+                113.28,
+                111.32,
+                111.41,
+                110.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KMX",
+            "Tahmin": 78.11,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                78.78,
+                79.04,
+                79.39,
+                77.21,
+                77.39
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CCL",
+            "Tahmin": 17.54,
+            "buysell": "sat",
+            "GercekDegerler": [
+                17.26,
+                17.83,
+                18.03,
+                18.36,
+                18.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CARR",
+            "Tahmin": 77.49,
+            "buysell": "sat",
+            "GercekDegerler": [
+                76.51,
+                77.11,
+                77.96,
+                78.19,
+                80.57
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CTLT",
+            "Tahmin": 59.84,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                59.62,
+                60.16,
+                60.35,
+                60.32,
+                60.11
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CAT",
+            "Tahmin": 350.78,
+            "buysell": "sat",
+            "GercekDegerler": [
+                345.31,
+                347.96,
+                353.69,
+                355.12,
+                373.31
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CBOE",
+            "Tahmin": 209.37,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                209.59,
+                212.61,
+                213.65,
+                210.66,
+                206.94
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CBRE",
+            "Tahmin": 119.27,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                118.66,
+                119.5,
+                118.17,
+                120.35,
+                122.49
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CDW",
+            "Tahmin": 221.98,
+            "buysell": "sat",
+            "GercekDegerler": [
+                220.15,
+                221.45,
+                223.32,
+                221.62,
+                227.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CE",
+            "Tahmin": 125.07,
+            "buysell": "sat",
+            "GercekDegerler": [
+                123.14,
+                123.8,
+                125.76,
+                126.37,
+                130.09
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "COR",
+            "Tahmin": 231.45,
+            "buysell": "al",
+            "GercekDegerler": [
+                239.88,
+                241.24,
+                234.53,
+                228.48,
+                226.56
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CNC",
+            "Tahmin": 75.72,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                75.35,
+                76.57,
+                75.39,
+                76.32,
+                75.63
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CNP",
+            "Tahmin": 28.08,
+            "buysell": "sat",
+            "GercekDegerler": [
+                27.93,
+                28.21,
+                28.32,
+                28.21,
+                28.26
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CF",
+            "Tahmin": 80.05,
+            "buysell": "sat",
+            "GercekDegerler": [
+                79.15,
+                79.73,
+                81.47,
+                81.49,
+                83.13
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CHRW",
+            "Tahmin": 100.83,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                100.07,
+                100.31,
+                100.26,
+                102.04,
+                103.64
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CRL",
+            "Tahmin": 201.23,
+            "buysell": "sat",
+            "GercekDegerler": [
+                198.61,
+                203.73,
+                206.21,
+                206.1,
+                209.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SCHW",
+            "Tahmin": 62.95,
+            "buysell": "sat",
+            "GercekDegerler": [
+                62.12,
+                63.69,
+                63.84,
+                63.56,
+                64.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CHTR",
+            "Tahmin": 336.26,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                340.17,
+                343.37,
+                339.35,
+                339.64,
+                331.34
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CVX",
+            "Tahmin": 141.94,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                140.61,
+                142.09,
+                143.41,
+                143.96,
+                144.99
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CMG",
+            "Tahmin": 56.88,
+            "buysell": "sat",
+            "GercekDegerler": [
+                56.12,
+                57.66,
+                58.5,
+                56.93,
+                57.97
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CB",
+            "Tahmin": 289.74,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                288.87,
+                291.32,
+                290.78,
+                289.18,
+                290.58
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CHD",
+            "Tahmin": 103.01,
+            "buysell": "al",
+            "GercekDegerler": [
+                104.04,
+                105.22,
+                103.82,
+                102.61,
+                101.58
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CI",
+            "Tahmin": 359.35,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                364.72,
+                366.85,
+                356.23,
+                355.39,
+                357.26
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CINF",
+            "Tahmin": 136.25,
+            "buysell": "notr",
+            "GercekDegerler": [
+                135.82,
+                137.18,
+                136.17,
+                136.3,
+                135.77
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CTAS",
+            "Tahmin": 203.79,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                207.77,
+                204.95,
+                203.77,
+                201.38,
+                203.74
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CSCO",
+            "Tahmin": 50.31,
+            "buysell": "sat",
+            "GercekDegerler": [
+                49.8,
+                51.03,
+                50.61,
+                50.57,
+                51.44
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "C",
+            "Tahmin": 58.56,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                57.67,
+                58.39,
+                59.29,
+                59.9,
+                63.02
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CFG",
+            "Tahmin": 40.62,
+            "buysell": "sat",
+            "GercekDegerler": [
+                40.09,
+                40.6,
+                40.54,
+                40.72,
+                42.21
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CLX",
+            "Tahmin": 163.74,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                166.27,
+                165.95,
+                164.69,
+                163.47,
+                162.04
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CME",
+            "Tahmin": 216.26,
+            "buysell": "notr",
+            "GercekDegerler": [
+                216.99,
+                218.53,
+                218.18,
+                216.3,
+                214.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CMS",
+            "Tahmin": 69.75,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                70.09,
+                70.48,
+                70.26,
+                70,
+                69.23
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KO",
+            "Tahmin": 71.27,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                71.41,
+                72.1,
+                71.8,
+                71.75,
+                70.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CTSH",
+            "Tahmin": 76.17,
+            "buysell": "al",
+            "GercekDegerler": [
+                77.21,
+                77.87,
+                76.22,
+                75.35,
+                75.2
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CL",
+            "Tahmin": 103.62,
+            "buysell": "al",
+            "GercekDegerler": [
+                105.73,
+                105.43,
+                104.56,
+                103.18,
+                102.01
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CMCSA",
+            "Tahmin": 39.54,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                39.55,
+                39.36,
+                39.28,
+                39.82,
+                40.27
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CAG",
+            "Tahmin": 32.32,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                32.05,
+                32.6,
+                32.56,
+                32.73,
+                32.39
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "COP",
+            "Tahmin": 105.49,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                103.5,
+                105.55,
+                108.29,
+                108.62,
+                110.55
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ED",
+            "Tahmin": 103.26,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                104.56,
+                104.85,
+                104.54,
+                103.41,
+                102.12
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "STZ",
+            "Tahmin": 250.99,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                252.57,
+                253.65,
+                252.86,
+                251,
+                248.45
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CEG",
+            "Tahmin": 197.88,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                195.98,
+                199.25,
+                201.23,
+                200.33,
+                208.5
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "COO",
+            "Tahmin": 110.25,
+            "buysell": "sat",
+            "GercekDegerler": [
+                110.53,
+                111.23,
+                109.83,
+                110.53,
+                111.1
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CPRT",
+            "Tahmin": 50.34,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                50.23,
+                49.75,
+                50.72,
+                51,
+                51.8
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GLW",
+            "Tahmin": 43.0,
+            "buysell": "sat",
+            "GercekDegerler": [
+                42.5,
+                42.91,
+                43.3,
+                43.42,
+                44.43
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CPAY",
+            "Tahmin": 307.8,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                307.43,
+                307.63,
+                306.88,
+                307.71,
+                312.78
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CTVA",
+            "Tahmin": 56.77,
+            "buysell": "sat",
+            "GercekDegerler": [
+                56.63,
+                56.27,
+                57.04,
+                57.44,
+                58.6
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CSGP",
+            "Tahmin": 76.82,
+            "buysell": "sat",
+            "GercekDegerler": [
+                78.87,
+                77.9,
+                75.73,
+                76.85,
+                79.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "COST",
+            "Tahmin": 899.55,
+            "buysell": "notr",
+            "GercekDegerler": [
+                916,
+                907.87,
+                897.27,
+                892.52,
+                900.74
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CTRA",
+            "Tahmin": 22.89,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                22.78,
+                22.92,
+                23.01,
+                23.23,
+                23.57
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CRWD",
+            "Tahmin": 264.09,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                259.13,
+                267.81,
+                268.72,
+                267.12,
+                277.38
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CCI",
+            "Tahmin": 117.49,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                118.85,
+                120.25,
+                119.54,
+                117.78,
+                115.17
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CSX",
+            "Tahmin": 33.9,
+            "buysell": "sat",
+            "GercekDegerler": [
+                33.52,
+                33.81,
+                34.07,
+                34.05,
+                34.8
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CMI",
+            "Tahmin": 302.95,
+            "buysell": "sat",
+            "GercekDegerler": [
+                302.13,
+                301.07,
+                301.59,
+                300.65,
+                309.14
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CVS",
+            "Tahmin": 58.03,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                57.98,
+                58.37,
+                57.83,
+                58.42,
+                58.4
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DHR",
+            "Tahmin": 273.66,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                274.25,
+                276.03,
+                272.47,
+                271.9,
+                276.43
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DRI",
+            "Tahmin": 162.71,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                160.25,
+                160.14,
+                161.53,
+                159.14,
+                172.27
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DVA",
+            "Tahmin": 163.76,
+            "buysell": "sat",
+            "GercekDegerler": [
+                163.56,
+                165.19,
+                164.22,
+                163.16,
+                163.14
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DAY",
+            "Tahmin": 59.13,
+            "buysell": "sat",
+            "GercekDegerler": [
+                59.41,
+                59.6,
+                58.99,
+                59.18,
+                59.64
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DECK",
+            "Tahmin": 153.95,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                155.845,
+                156.28,
+                155.1,
+                157.23,
+                152.11
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DE",
+            "Tahmin": 397.87,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                394.68,
+                394.66,
+                397.88,
+                401.07,
+                409.73
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DAL",
+            "Tahmin": 45.69,
+            "buysell": "sat",
+            "GercekDegerler": [
+                45.18,
+                45.32,
+                46.68,
+                46.92,
+                47.13
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DVN",
+            "Tahmin": 39.8,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                39.45,
+                39.64,
+                40.46,
+                40.37,
+                40.97
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DXCM",
+            "Tahmin": 69.72,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                69.51,
+                70.09,
+                68.94,
+                69.46,
+                71.92
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FANG",
+            "Tahmin": 175.23,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                172.42,
+                174.81,
+                179.77,
+                178.12,
+                181.63
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DLR",
+            "Tahmin": 158.62,
+            "buysell": "sat",
+            "GercekDegerler": [
+                158.93,
+                160.87,
+                157.58,
+                158.25,
+                158.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DFS",
+            "Tahmin": 135.55,
+            "buysell": "sat",
+            "GercekDegerler": [
+                131.33,
+                133.91,
+                137.58,
+                136.11,
+                143.92
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DG",
+            "Tahmin": 85.45,
+            "buysell": "sat",
+            "GercekDegerler": [
+                84.75,
+                85.75,
+                86.01,
+                86.86,
+                86.5
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DLTR",
+            "Tahmin": 71.55,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                69.7,
+                71.91,
+                73.5,
+                75.67,
+                73.88
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "D",
+            "Tahmin": 57.95,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                58.16,
+                58.53,
+                58.35,
+                57.41,
+                57.48
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DPZ",
+            "Tahmin": 406.13,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                402.52,
+                408.97,
+                412.44,
+                409.02,
+                411.71
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DOV",
+            "Tahmin": 186.67,
+            "buysell": "sat",
+            "GercekDegerler": [
+                185.06,
+                186.77,
+                188.35,
+                185.93,
+                191.18
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DOW",
+            "Tahmin": 51.06,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                50.15,
+                50.66,
+                51.51,
+                51.64,
+                52.89
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DHI",
+            "Tahmin": 194.89,
+            "buysell": "sat",
+            "GercekDegerler": [
+                194.8,
+                194.6,
+                195.35,
+                194.19,
+                197.06
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DTE",
+            "Tahmin": 124.75,
+            "buysell": "al",
+            "GercekDegerler": [
+                125.95,
+                126.36,
+                125.68,
+                124.42,
+                123.53
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DUK",
+            "Tahmin": 116.24,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                117.31,
+                117.7,
+                116.73,
+                115.88,
+                115.14
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DD",
+            "Tahmin": 82.05,
+            "buysell": "sat",
+            "GercekDegerler": [
+                81.42,
+                82,
+                82.86,
+                82.84,
+                83.18
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EMN",
+            "Tahmin": 104.68,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                103.1,
+                105.38,
+                105.93,
+                106.38,
+                108.26
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ETN",
+            "Tahmin": 309.98,
+            "buysell": "sat",
+            "GercekDegerler": [
+                305.8,
+                306.55,
+                311.73,
+                314.65,
+                328.92
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EBAY",
+            "Tahmin": 63.7,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                63.44,
+                64.36,
+                64.88,
+                63.17,
+                63.22
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ECL",
+            "Tahmin": 250.17,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                250.54,
+                253.2,
+                250.46,
+                248.53,
+                251.21
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EIX",
+            "Tahmin": 85.04,
+            "buysell": "al",
+            "GercekDegerler": [
+                85.42,
+                86.25,
+                86.06,
+                85.29,
+                84.19
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EW",
+            "Tahmin": 67.89,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                68.52,
+                69.36,
+                67.23,
+                67.53,
+                67.26
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EA",
+            "Tahmin": 142.75,
+            "buysell": "al",
+            "GercekDegerler": [
+                145.83,
+                146.52,
+                142.59,
+                140.45,
+                140.74
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ELV",
+            "Tahmin": 543.32,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                550.84,
+                553.5,
+                543.51,
+                539.46,
+                538
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EMR",
+            "Tahmin": 103.08,
+            "buysell": "sat",
+            "GercekDegerler": [
+                102.03,
+                102.39,
+                103.9,
+                103.68,
+                105.91
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ENPH",
+            "Tahmin": 112.51,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                109.91,
+                111.49,
+                118.53,
+                119.74,
+                117.36
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ETR",
+            "Tahmin": 127.66,
+            "buysell": "sat",
+            "GercekDegerler": [
+                127.09,
+                128.46,
+                129.08,
+                128.61,
+                127.68
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EOG",
+            "Tahmin": 121.11,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                119.37,
+                121.67,
+                123.19,
+                124.38,
+                125.2
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EPAM",
+            "Tahmin": 199.54,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                201.88,
+                205.46,
+                200.4,
+                198,
+                198.06
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EQT",
+            "Tahmin": 33.47,
+            "buysell": "sat",
+            "GercekDegerler": [
+                33.19,
+                33.55,
+                33.27,
+                33.53,
+                34.73
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EFX",
+            "Tahmin": 300.66,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                306.75,
+                304.11,
+                297.81,
+                297.57,
+                302.19
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EQIX",
+            "Tahmin": 866.43,
+            "buysell": "sat",
+            "GercekDegerler": [
+                871.54,
+                876.57,
+                864.33,
+                860.95,
+                870.99
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EQR",
+            "Tahmin": 77.42,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                78.08,
+                77.77,
+                77.34,
+                77.08,
+                77.06
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ESS",
+            "Tahmin": 312.89,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                314.05,
+                315.15,
+                312.14,
+                312.24,
+                312.42
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EL",
+            "Tahmin": 85.62,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                84.56,
+                85.13,
+                88.1,
+                88,
+                87.44
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ETSY",
+            "Tahmin": 54.34,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                55.65,
+                53.88,
+                54.09,
+                54,
+                54.07
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EG",
+            "Tahmin": 384.87,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                382.75,
+                389.43,
+                387.54,
+                388.66,
+                388.3
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EVRG",
+            "Tahmin": 61.38,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                61.06,
+                62.01,
+                61.91,
+                61.55,
+                61.07
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ES",
+            "Tahmin": 67.73,
+            "buysell": "notr",
+            "GercekDegerler": [
+                67.97,
+                68.4,
+                68.23,
+                67.49,
+                67.2
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EXC",
+            "Tahmin": 39.68,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                40.23,
+                40.43,
+                40.2,
+                39.5,
+                39.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EXPE",
+            "Tahmin": 137.42,
+            "buysell": "sat",
+            "GercekDegerler": [
+                135.77,
+                135.79,
+                138.41,
+                139.655,
+                142.54
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EXPD",
+            "Tahmin": 122.11,
+            "buysell": "sat",
+            "GercekDegerler": [
+                120.78,
+                121.08,
+                123.7,
+                123.39,
+                125.65
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "EXR",
+            "Tahmin": 178.54,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                177.9,
+                177.63,
+                178.78,
+                181.65,
+                180.09
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "XOM",
+            "Tahmin": 112.6,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                111.15,
+                112.71,
+                114.18,
+                114.58,
+                116
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FFIV",
+            "Tahmin": 212.28,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                210.31,
+                213.42,
+                214.64,
+                213.57,
+                217.47
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FDS",
+            "Tahmin": 450.75,
+            "buysell": "sat",
+            "GercekDegerler": [
+                445.36,
+                453.98,
+                448.28,
+                446.81,
+                469.48
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FICO",
+            "Tahmin": 1882.56,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                1868.96,
+                1894.98,
+                1884.45,
+                1900.33,
+                1929.21
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FAST",
+            "Tahmin": 70.22,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                69.82,
+                70.09,
+                70.59,
+                70.47,
+                71.38
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FRT",
+            "Tahmin": 115.39,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                117.39,
+                117.22,
+                115.63,
+                115.52,
+                114.22
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FDX",
+            "Tahmin": 291.44,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                286.38,
+                292.63,
+                297.34,
+                298.17,
+                300.39
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FIS",
+            "Tahmin": 84.44,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                84.14,
+                85.03,
+                85.04,
+                84.43,
+                84.41
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FITB",
+            "Tahmin": 42.47,
+            "buysell": "sat",
+            "GercekDegerler": [
+                42.07,
+                42.38,
+                42.51,
+                42.62,
+                43.64
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FSLR",
+            "Tahmin": 232.42,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                228.79,
+                233.31,
+                239.98,
+                241.81,
+                240.45
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FE",
+            "Tahmin": 43.6,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                44.47,
+                44.34,
+                43.69,
+                43.49,
+                43.23
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FI",
+            "Tahmin": 175.12,
+            "buysell": "sat",
+            "GercekDegerler": [
+                174.89,
+                175.35,
+                175.3,
+                175.23,
+                178.78
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FMC",
+            "Tahmin": 63.55,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                63.51,
+                63.36,
+                63.34,
+                63.5,
+                64.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "F",
+            "Tahmin": 10.77,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                10.69,
+                10.8,
+                10.9,
+                10.98,
+                10.92
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FTNT",
+            "Tahmin": 75.2,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                75.01,
+                76.34,
+                75.61,
+                74.68,
+                75.66
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FTV",
+            "Tahmin": 74.41,
+            "buysell": "sat",
+            "GercekDegerler": [
+                73.6,
+                73.72,
+                74.73,
+                75.71,
+                77.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FOXA",
+            "Tahmin": 39.97,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                39.66,
+                39.71,
+                40.53,
+                40.6,
+                40.48
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FOX",
+            "Tahmin": 37.0,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                36.78,
+                36.77,
+                37.44,
+                37.56,
+                37.53
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "BEN",
+            "Tahmin": 20.16,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                19.9,
+                20.11,
+                20.35,
+                20.39,
+                20.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "FCX",
+            "Tahmin": 43.14,
+            "buysell": "sat",
+            "GercekDegerler": [
+                42.66,
+                42.89,
+                43.13,
+                43.92,
+                45.14
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GRMN",
+            "Tahmin": 171.09,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                172.68,
+                172.62,
+                171.58,
+                169.87,
+                171.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IT",
+            "Tahmin": 508.42,
+            "buysell": "sat",
+            "GercekDegerler": [
+                510.56,
+                510.08,
+                507.35,
+                506.49,
+                513.42
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GE",
+            "Tahmin": 179.72,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                178.28,
+                181.44,
+                180.33,
+                183.55,
+                186.16
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GEHC",
+            "Tahmin": 87.47,
+            "buysell": "sat",
+            "GercekDegerler": [
+                86.91,
+                86.64,
+                86.79,
+                88.53,
+                90.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GEV",
+            "Tahmin": 230.73,
+            "buysell": "sat",
+            "GercekDegerler": [
+                225.59,
+                229.93,
+                237.15,
+                235.67,
+                244.45
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GEN",
+            "Tahmin": 26.49,
+            "buysell": "sat",
+            "GercekDegerler": [
+                26.49,
+                26.62,
+                26.46,
+                26.58,
+                26.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GNRC",
+            "Tahmin": 141.23,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                140.53,
+                141.45,
+                143.72,
+                143.14,
+                142.91
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GD",
+            "Tahmin": 304.32,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                304.8,
+                307.55,
+                303.85,
+                302.38,
+                304.73
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GIS",
+            "Tahmin": 74.11,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                73.71,
+                74.63,
+                74.5,
+                75.01,
+                74.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GM",
+            "Tahmin": 47.0,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                46.3,
+                46.87,
+                47.52,
+                48.66,
+                48.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GPC",
+            "Tahmin": 137.73,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                137.35,
+                137.35,
+                137.33,
+                138.09,
+                139.14
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GILD",
+            "Tahmin": 83.09,
+            "buysell": "sat",
+            "GercekDegerler": [
+                82.81,
+                83.16,
+                83.05,
+                83.89,
+                83.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GPN",
+            "Tahmin": 111.1,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                110.44,
+                111.05,
+                112.07,
+                111.26,
+                112.97
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GL",
+            "Tahmin": 105.15,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                103.8,
+                106.2,
+                106.18,
+                106.65,
+                107.25
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GDDY",
+            "Tahmin": 152.82,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                152.28,
+                150.3,
+                153.9,
+                154.28,
+                160.14
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GS",
+            "Tahmin": 484.07,
+            "buysell": "sat",
+            "GercekDegerler": [
+                478.99,
+                485.16,
+                485.39,
+                484.58,
+                503.83
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HAL",
+            "Tahmin": 28.42,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                27.87,
+                28.41,
+                29.3,
+                29.1,
+                29.53
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HIG",
+            "Tahmin": 115.99,
+            "buysell": "notr",
+            "GercekDegerler": [
+                115.36,
+                116.63,
+                117.07,
+                116.7,
+                115.94
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HAS",
+            "Tahmin": 69.61,
+            "buysell": "sat",
+            "GercekDegerler": [
+                68.73,
+                69.79,
+                70.42,
+                71.16,
+                71.82
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HCA",
+            "Tahmin": 397.48,
+            "buysell": "sat",
+            "GercekDegerler": [
+                394.68,
+                403.43,
+                397.5,
+                399.89,
+                403.52
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DOC",
+            "Tahmin": 22.16,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                22.58,
+                22.41,
+                21.94,
+                22.12,
+                21.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HSIC",
+            "Tahmin": 70.7,
+            "buysell": "sat",
+            "GercekDegerler": [
+                70.38,
+                69.87,
+                71.24,
+                72.46,
+                72.54
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HSY",
+            "Tahmin": 197.83,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                200.83,
+                200.81,
+                199.28,
+                197.63,
+                195.52
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HES",
+            "Tahmin": 129.68,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                128.57,
+                128.92,
+                130.81,
+                131.39,
+                133.5
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HPE",
+            "Tahmin": 17.52,
+            "buysell": "sat",
+            "GercekDegerler": [
+                17.15,
+                17.23,
+                18.2,
+                18.3,
+                18.85
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HLT",
+            "Tahmin": 219.08,
+            "buysell": "sat",
+            "GercekDegerler": [
+                216.82,
+                218.1,
+                220.38,
+                220.98,
+                225.54
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HOLX",
+            "Tahmin": 81.76,
+            "buysell": "sat",
+            "GercekDegerler": [
+                81.15,
+                82.7,
+                82,
+                81.72,
+                82.4
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HD",
+            "Tahmin": 382.73,
+            "buysell": "sat",
+            "GercekDegerler": [
+                379.99,
+                382.01,
+                383.24,
+                384.01,
+                390.34
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HON",
+            "Tahmin": 203.03,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                204.15,
+                204.68,
+                204.24,
+                201.64,
+                203.7
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HRL",
+            "Tahmin": 32.24,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                32.08,
+                32.53,
+                32.37,
+                32.4,
+                32.13
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HST",
+            "Tahmin": 17.61,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                17.42,
+                17.46,
+                17.81,
+                17.88,
+                18.53
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HWM",
+            "Tahmin": 95.21,
+            "buysell": "sat",
+            "GercekDegerler": [
+                95.28,
+                95.14,
+                94.59,
+                94.68,
+                97.43
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HPQ",
+            "Tahmin": 33.78,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                33.32,
+                33.76,
+                34.43,
+                34.53,
+                34.82
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HUBB",
+            "Tahmin": 408.48,
+            "buysell": "sat",
+            "GercekDegerler": [
+                404.63,
+                408.82,
+                411.29,
+                409.86,
+                422.54
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HUM",
+            "Tahmin": 314.89,
+            "buysell": "al",
+            "GercekDegerler": [
+                321.56,
+                315.23,
+                311.8,
+                315.29,
+                312
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HBAN",
+            "Tahmin": 14.56,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                14.38,
+                14.64,
+                14.57,
+                14.56,
+                14.96
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "HII",
+            "Tahmin": 264.09,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                261.55,
+                265.21,
+                265.41,
+                269.02,
+                268.03
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IBM",
+            "Tahmin": 214.85,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                214.79,
+                217.16,
+                214.13,
+                214.94,
+                213.89
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IEX",
+            "Tahmin": 202.72,
+            "buysell": "sat",
+            "GercekDegerler": [
+                199.78,
+                202.68,
+                204.69,
+                205.6,
+                210.5
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IDXX",
+            "Tahmin": 505.47,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                500.55,
+                511.38,
+                512.27,
+                511.3,
+                517.06
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ITW",
+            "Tahmin": 253.61,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                251.75,
+                255.13,
+                254.72,
+                252.97,
+                257.96
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "INCY",
+            "Tahmin": 64.76,
+            "buysell": "sat",
+            "GercekDegerler": [
+                63.56,
+                66.41,
+                66.43,
+                65.17,
+                66.82
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IR",
+            "Tahmin": 91.91,
+            "buysell": "sat",
+            "GercekDegerler": [
+                91.03,
+                90.94,
+                93.97,
+                93.74,
+                97.65
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PODD",
+            "Tahmin": 234.9,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                233.87,
+                233.89,
+                235.54,
+                236.11,
+                237.68
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "INTC",
+            "Tahmin": 20.19,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                19.66,
+                20.91,
+                21.47,
+                20.77,
+                21.14
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ICE",
+            "Tahmin": 160.62,
+            "buysell": "al",
+            "GercekDegerler": [
+                161.36,
+                161.91,
+                162.81,
+                161.22,
+                158.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IFF",
+            "Tahmin": 103.6,
+            "buysell": "notr",
+            "GercekDegerler": [
+                103.59,
+                103.64,
+                104.22,
+                103.46,
+                103.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IP",
+            "Tahmin": 49.09,
+            "buysell": "sat",
+            "GercekDegerler": [
+                48.7,
+                49.83,
+                49.49,
+                49.54,
+                49.98
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IPG",
+            "Tahmin": 31.06,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                30.85,
+                31.17,
+                31.23,
+                31.08,
+                31.49
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "INTU",
+            "Tahmin": 641.66,
+            "buysell": "sat",
+            "GercekDegerler": [
+                655.31,
+                646.25,
+                644.82,
+                633.07,
+                654.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ISRG",
+            "Tahmin": 485.59,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                489.86,
+                491.39,
+                483.32,
+                482.09,
+                490.01
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IVZ",
+            "Tahmin": 16.34,
+            "buysell": "sat",
+            "GercekDegerler": [
+                16.01,
+                16.25,
+                16.6,
+                16.75,
+                17.35
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "INVH",
+            "Tahmin": 36.33,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                37.02,
+                36.77,
+                36.11,
+                35.86,
+                36.04
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IQV",
+            "Tahmin": 240.13,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                238.7,
+                239.38,
+                239.98,
+                242.67,
+                244.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "IRM",
+            "Tahmin": 115.62,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                117.06,
+                118.19,
+                115.92,
+                116.45,
+                114.13
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "JBHT",
+            "Tahmin": 169.09,
+            "buysell": "sat",
+            "GercekDegerler": [
+                168.66,
+                167.4,
+                167.99,
+                169.35,
+                174.82
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "JBL",
+            "Tahmin": 106.5,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                105.9,
+                105.72,
+                106.83,
+                107.85,
+                110.86
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "JKHY",
+            "Tahmin": 175.14,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                176.07,
+                177.06,
+                175.69,
+                174.21,
+                175.6
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "J",
+            "Tahmin": 145.17,
+            "buysell": "sat",
+            "GercekDegerler": [
+                143.96,
+                144.79,
+                144.94,
+                145.54,
+                149.46
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "JNJ",
+            "Tahmin": 165.72,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                165.52,
+                166.99,
+                167.07,
+                166.15,
+                164.82
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "JCI",
+            "Tahmin": 72.8,
+            "buysell": "sat",
+            "GercekDegerler": [
+                72.55,
+                72.51,
+                72.87,
+                72.77,
+                74.23
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "JPM",
+            "Tahmin": 206.47,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                204.32,
+                207.86,
+                209.25,
+                207.53,
+                210.48
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "JNPR",
+            "Tahmin": 38.74,
+            "buysell": "sat",
+            "GercekDegerler": [
+                38.6,
+                38.63,
+                39.03,
+                38.98,
+                38.96
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "K",
+            "Tahmin": 80.65,
+            "buysell": "notr",
+            "GercekDegerler": [
+                80.68,
+                80.68,
+                80.64,
+                80.65,
+                80.65
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KVUE",
+            "Tahmin": 23.05,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                23.39,
+                23.38,
+                23.39,
+                23.19,
+                22.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KDP",
+            "Tahmin": 37.45,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                37.61,
+                37.35,
+                37.5,
+                37.5,
+                37.5
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KEY",
+            "Tahmin": 16.36,
+            "buysell": "sat",
+            "GercekDegerler": [
+                16.09,
+                16.27,
+                16.57,
+                16.59,
+                17.34
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KEYS",
+            "Tahmin": 150.57,
+            "buysell": "sat",
+            "GercekDegerler": [
+                150.04,
+                149.48,
+                150.49,
+                150.21,
+                155.38
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KMB",
+            "Tahmin": 141.45,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                143.52,
+                144.2,
+                141.66,
+                141.14,
+                140.1
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KIM",
+            "Tahmin": 23.59,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                24.02,
+                24.06,
+                23.58,
+                23.54,
+                23.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KMI",
+            "Tahmin": 21.3,
+            "buysell": "sat",
+            "GercekDegerler": [
+                21.14,
+                21.47,
+                21.56,
+                21.61,
+                21.59
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KKR",
+            "Tahmin": 124.92,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                122.8,
+                126.54,
+                127.97,
+                129.25,
+                132.8
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KLAC",
+            "Tahmin": 741.17,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                751.5,
+                736.4,
+                739.6,
+                731.04,
+                772.43
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KHC",
+            "Tahmin": 35.27,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                35.59,
+                35.63,
+                35.04,
+                35.14,
+                34.99
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "KR",
+            "Tahmin": 55.19,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                55.91,
+                56.19,
+                55.04,
+                54.62,
+                54.83
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LHX",
+            "Tahmin": 230.18,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                229.77,
+                231.71,
+                229.71,
+                229.71,
+                230.46
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LH",
+            "Tahmin": 223.5,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                221.13,
+                225.76,
+                227.01,
+                227.22,
+                224.59
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LRCX",
+            "Tahmin": 763.53,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                769.72,
+                758.47,
+                766.04,
+                755.87,
+                789.07
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LW",
+            "Tahmin": 64.68,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                64.17,
+                64.76,
+                65.69,
+                65.77,
+                65.61
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LVS",
+            "Tahmin": 40.43,
+            "buysell": "sat",
+            "GercekDegerler": [
+                40.02,
+                40.26,
+                41.4,
+                40.79,
+                42.1
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LDOS",
+            "Tahmin": 154.44,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                155.5,
+                154.81,
+                154.34,
+                153.79,
+                156.09
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LEN",
+            "Tahmin": 187.57,
+            "buysell": "sat",
+            "GercekDegerler": [
+                185.91,
+                187.21,
+                189.36,
+                188.43,
+                192.45
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LLY",
+            "Tahmin": 910.85,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                923.71,
+                923.54,
+                906.18,
+                904.97,
+                915.04
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LIN",
+            "Tahmin": 469.79,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                468.81,
+                474.91,
+                471.66,
+                467.03,
+                469.17
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LYV",
+            "Tahmin": 100.58,
+            "buysell": "sat",
+            "GercekDegerler": [
+                98.85,
+                101.52,
+                102.92,
+                102.8,
+                104.32
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LKQ",
+            "Tahmin": 40.69,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                41.04,
+                40.43,
+                40.84,
+                40.77,
+                40.77
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LMT",
+            "Tahmin": 567.76,
+            "buysell": "notr",
+            "GercekDegerler": [
+                569.91,
+                572.92,
+                567.01,
+                565.49,
+                565.18
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "L",
+            "Tahmin": 78.69,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                78.34,
+                78.84,
+                79.29,
+                79.2,
+                79.25
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LOW",
+            "Tahmin": 256.82,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                255.41,
+                256.64,
+                256.72,
+                256.63,
+                261
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LULU",
+            "Tahmin": 266.94,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                266.76,
+                265.3,
+                268.41,
+                270.2,
+                270.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LYB",
+            "Tahmin": 94.13,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                93.18,
+                94.08,
+                94.99,
+                93.94,
+                96.09
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MTB",
+            "Tahmin": 172.22,
+            "buysell": "sat",
+            "GercekDegerler": [
+                168.88,
+                173.08,
+                173.82,
+                174.05,
+                179.86
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MRO",
+            "Tahmin": 26.57,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                26.13,
+                26.66,
+                27.36,
+                27.43,
+                27.89
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MPC",
+            "Tahmin": 162.47,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                163.58,
+                161.01,
+                163.87,
+                164.67,
+                166.35
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MKTX",
+            "Tahmin": 257.92,
+            "buysell": "sat",
+            "GercekDegerler": [
+                257.13,
+                259,
+                258.38,
+                259.83,
+                259.33
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MAR",
+            "Tahmin": 234.92,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                231.74,
+                232.46,
+                235.61,
+                238.74,
+                244.46
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MMC",
+            "Tahmin": 227.29,
+            "buysell": "al",
+            "GercekDegerler": [
+                229.68,
+                231.17,
+                228.07,
+                226.19,
+                224.61
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MLM",
+            "Tahmin": 528.28,
+            "buysell": "sat",
+            "GercekDegerler": [
+                520.68,
+                529.78,
+                534.04,
+                534.01,
+                548.71
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MAS",
+            "Tahmin": 81.09,
+            "buysell": "sat",
+            "GercekDegerler": [
+                80.21,
+                81.04,
+                81.25,
+                81.69,
+                83.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MA",
+            "Tahmin": 495.45,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                493.36,
+                497.71,
+                500.99,
+                494.76,
+                493.01
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MTCH",
+            "Tahmin": 35.32,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                35.02,
+                35.18,
+                35.94,
+                36.26,
+                36.84
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MKC",
+            "Tahmin": 83.87,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                83.76,
+                84.76,
+                84.5,
+                83.92,
+                83.34
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MCD",
+            "Tahmin": 294.18,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                296.53,
+                296.69,
+                293.75,
+                292.03,
+                293.85
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MCK",
+            "Tahmin": 512.75,
+            "buysell": "al",
+            "GercekDegerler": [
+                518.81,
+                519.82,
+                513.91,
+                511.62,
+                508.16
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MDT",
+            "Tahmin": 88.84,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                90,
+                90.11,
+                88.63,
+                88.13,
+                89.47
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MRK",
+            "Tahmin": 116.7,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                115.86,
+                117.96,
+                118.29,
+                118.64,
+                117.23
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "META",
+            "Tahmin": 529.74,
+            "buysell": "sat",
+            "GercekDegerler": [
+                524.62,
+                533.28,
+                536.315,
+                537.95,
+                559.1
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MET",
+            "Tahmin": 77.69,
+            "buysell": "sat",
+            "GercekDegerler": [
+                76.19,
+                77.38,
+                78.28,
+                79.25,
+                81.09
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MTD",
+            "Tahmin": 1394.75,
+            "buysell": "sat",
+            "GercekDegerler": [
+                1383.06,
+                1393.25,
+                1383.47,
+                1402.69,
+                1443.03
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MGM",
+            "Tahmin": 36.81,
+            "buysell": "sat",
+            "GercekDegerler": [
+                36.51,
+                36.44,
+                37.21,
+                36.96,
+                37.75
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MCHP",
+            "Tahmin": 77.19,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                77.62,
+                77,
+                77,
+                76.36,
+                78.83
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MU",
+            "Tahmin": 88.07,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                91.22,
+                87.18,
+                88.73,
+                87.35,
+                89.25
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MSFT",
+            "Tahmin": 432.1,
+            "buysell": "sat",
+            "GercekDegerler": [
+                430.59,
+                431.34,
+                435.15,
+                430.81,
+                438.69
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MAA",
+            "Tahmin": 164.88,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                166.18,
+                166.65,
+                164,
+                163.92,
+                164.51
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MRNA",
+            "Tahmin": 68.87,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                68.28,
+                69.17,
+                71.99,
+                69.86,
+                68.02
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MHK",
+            "Tahmin": 155.62,
+            "buysell": "sat",
+            "GercekDegerler": [
+                156.55,
+                155.82,
+                154.95,
+                156.61,
+                158.17
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MOH",
+            "Tahmin": 354.15,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                358.2,
+                360.77,
+                353.05,
+                355.15,
+                349.91
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TAP",
+            "Tahmin": 55.32,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                54.94,
+                55.5,
+                56.08,
+                55.34,
+                55.32
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MDLZ",
+            "Tahmin": 75.07,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                75.26,
+                75.53,
+                75.1,
+                75.05,
+                74.78
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MPWR",
+            "Tahmin": 878.34,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                914.1,
+                885.23,
+                867.31,
+                860.66,
+                911.12
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MNST",
+            "Tahmin": 51.1,
+            "buysell": "sat",
+            "GercekDegerler": [
+                50.83,
+                50.75,
+                51.07,
+                52.35,
+                51.83
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MCO",
+            "Tahmin": 481.3,
+            "buysell": "sat",
+            "GercekDegerler": [
+                476.96,
+                484.84,
+                482.73,
+                484.67,
+                490.11
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MS",
+            "Tahmin": 99.09,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                98.25,
+                100.09,
+                99.84,
+                99.3,
+                100.73
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MOS",
+            "Tahmin": 25.8,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                26.39,
+                25.43,
+                25.65,
+                25.88,
+                26.73
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MSI",
+            "Tahmin": 439.11,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                441.76,
+                443.18,
+                438.91,
+                436.58,
+                438.81
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "MSCI",
+            "Tahmin": 557.45,
+            "buysell": "al",
+            "GercekDegerler": [
+                561.93,
+                566.66,
+                556.38,
+                551.57,
+                555.31
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NDAQ",
+            "Tahmin": 73.16,
+            "buysell": "sat",
+            "GercekDegerler": [
+                73,
+                73.3,
+                72.7,
+                72.9,
+                74.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NTAP",
+            "Tahmin": 118.09,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                117.32,
+                117.86,
+                119.04,
+                119.35,
+                120.08
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NFLX",
+            "Tahmin": 696.14,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                697.06,
+                696.5,
+                706.91,
+                690.47,
+                704.32
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NEM",
+            "Tahmin": 53.2,
+            "buysell": "notr",
+            "GercekDegerler": [
+                53.71,
+                53.13,
+                53.11,
+                53.06,
+                53.52
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NWSA",
+            "Tahmin": 26.21,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                26.14,
+                26.09,
+                26.34,
+                26.45,
+                26.54
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NWS",
+            "Tahmin": 27.5,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                27.38,
+                27.35,
+                27.65,
+                27.78,
+                27.88
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NEE",
+            "Tahmin": 83.57,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                84.65,
+                84.64,
+                84.97,
+                84.28,
+                82.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NKE",
+            "Tahmin": 79.68,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                79.01,
+                79.8,
+                80.64,
+                80.9,
+                80.98
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NI",
+            "Tahmin": 34.03,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                34.06,
+                34.38,
+                34.18,
+                34.07,
+                33.83
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NDSN",
+            "Tahmin": 254.15,
+            "buysell": "sat",
+            "GercekDegerler": [
+                251.81,
+                253.37,
+                255.18,
+                255.61,
+                260.03
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NSC",
+            "Tahmin": 247.57,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                245.8,
+                247.07,
+                246.24,
+                249.29,
+                251.86
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NTRS",
+            "Tahmin": 89.47,
+            "buysell": "sat",
+            "GercekDegerler": [
+                88.24,
+                89.75,
+                90.65,
+                90.31,
+                92.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NOC",
+            "Tahmin": 520.49,
+            "buysell": "notr",
+            "GercekDegerler": [
+                519.78,
+                521.27,
+                520.75,
+                521.63,
+                522.26
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NCLH",
+            "Tahmin": 19.5,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                19.33,
+                19.85,
+                19.76,
+                19.84,
+                20.21
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NRG",
+            "Tahmin": 81.15,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                81.04,
+                80.78,
+                81.32,
+                81.95,
+                81.83
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NUE",
+            "Tahmin": 143.52,
+            "buysell": "sat",
+            "GercekDegerler": [
+                143.59,
+                142.96,
+                142.18,
+                142.98,
+                149
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NVDA",
+            "Tahmin": 115.09,
+            "buysell": "sat",
+            "GercekDegerler": [
+                119.1,
+                116.78,
+                115.59,
+                113.37,
+                117.87
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NVR",
+            "Tahmin": 9434.85,
+            "buysell": "sat",
+            "GercekDegerler": [
+                9369.58,
+                9425.37,
+                9485.57,
+                9461.98,
+                9659.65
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NXPI",
+            "Tahmin": 231.92,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                229.93,
+                230.01,
+                232.57,
+                231.51,
+                238.72
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ORLY",
+            "Tahmin": 1122.01,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                1125.48,
+                1130.72,
+                1127.92,
+                1133.19,
+                1115.65
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "OXY",
+            "Tahmin": 51.34,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                51.05,
+                51.29,
+                52.06,
+                51.75,
+                52.03
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ODFL",
+            "Tahmin": 193.36,
+            "buysell": "sat",
+            "GercekDegerler": [
+                192.61,
+                191.92,
+                194.66,
+                196.75,
+                204.52
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "OMC",
+            "Tahmin": 101.07,
+            "buysell": "sat",
+            "GercekDegerler": [
+                99.97,
+                101.09,
+                101.73,
+                102.61,
+                103.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ON",
+            "Tahmin": 71.15,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                71.72,
+                70.37,
+                71.42,
+                70.64,
+                73.35
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "OKE",
+            "Tahmin": 92.65,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                91.37,
+                93.68,
+                94.66,
+                93.9,
+                93.77
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ORCL",
+            "Tahmin": 164.59,
+            "buysell": "sat",
+            "GercekDegerler": [
+                162.03,
+                170.33,
+                167.47,
+                164.53,
+                167.59
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "OTIS",
+            "Tahmin": 94.74,
+            "buysell": "sat",
+            "GercekDegerler": [
+                94.18,
+                94.81,
+                96.09,
+                93.99,
+                96.38
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PCAR",
+            "Tahmin": 96.12,
+            "buysell": "sat",
+            "GercekDegerler": [
+                95.12,
+                95.7,
+                97.99,
+                96.32,
+                99.52
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PKG",
+            "Tahmin": 212.13,
+            "buysell": "sat",
+            "GercekDegerler": [
+                210.27,
+                214.59,
+                213.2,
+                212.4,
+                215.66
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PANW",
+            "Tahmin": 336.39,
+            "buysell": "al",
+            "GercekDegerler": [
+                346.9,
+                346.11,
+                337.93,
+                329.75,
+                333.6
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PARA",
+            "Tahmin": 10.45,
+            "buysell": "notr",
+            "GercekDegerler": [
+                10.57,
+                10.42,
+                10.44,
+                10.56,
+                10.46
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PH",
+            "Tahmin": 599.26,
+            "buysell": "sat",
+            "GercekDegerler": [
+                591.33,
+                596.78,
+                605.17,
+                609.03,
+                626.05
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PAYX",
+            "Tahmin": 133.8,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                135.09,
+                135.19,
+                134.93,
+                132.5,
+                133.17
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PAYC",
+            "Tahmin": 169.65,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                169.38,
+                169.09,
+                169.04,
+                170.94,
+                172.93
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PYPL",
+            "Tahmin": 71.2,
+            "buysell": "sat",
+            "GercekDegerler": [
+                70.1,
+                71.07,
+                71.77,
+                73.12,
+                77.57
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PNR",
+            "Tahmin": 92.64,
+            "buysell": "sat",
+            "GercekDegerler": [
+                91.49,
+                92.95,
+                93.91,
+                93.48,
+                95.26
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PEP",
+            "Tahmin": 175.88,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                177.36,
+                177.21,
+                176.87,
+                175.21,
+                174.66
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PFE",
+            "Tahmin": 29.54,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                29.27,
+                30.07,
+                29.83,
+                29.75,
+                29.66
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PCG",
+            "Tahmin": 19.69,
+            "buysell": "notr",
+            "GercekDegerler": [
+                19.77,
+                20.01,
+                19.86,
+                19.51,
+                19.6
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PM",
+            "Tahmin": 122.31,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                125.62,
+                125.97,
+                123.23,
+                120.96,
+                119.74
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PSX",
+            "Tahmin": 128.07,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                126.7,
+                127.34,
+                128.3,
+                130.31,
+                132.55
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PNW",
+            "Tahmin": 89.85,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                90.7,
+                91.32,
+                89.97,
+                90.22,
+                89.02
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PNC",
+            "Tahmin": 179.67,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                177.24,
+                180.92,
+                181.49,
+                182.57,
+                187.2
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "POOL",
+            "Tahmin": 360.46,
+            "buysell": "sat",
+            "GercekDegerler": [
+                356.02,
+                358.49,
+                371.86,
+                368.93,
+                372.09
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PPG",
+            "Tahmin": 127.47,
+            "buysell": "sat",
+            "GercekDegerler": [
+                126.98,
+                127.34,
+                127.46,
+                127.46,
+                129.23
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PPL",
+            "Tahmin": 32.17,
+            "buysell": "al",
+            "GercekDegerler": [
+                32.46,
+                32.68,
+                32.4,
+                32.15,
+                31.79
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PFG",
+            "Tahmin": 82.59,
+            "buysell": "sat",
+            "GercekDegerler": [
+                81.32,
+                82.17,
+                83.82,
+                83.73,
+                85.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PG",
+            "Tahmin": 174.01,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                174.08,
+                177.24,
+                175.88,
+                173.92,
+                171.54
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PGR",
+            "Tahmin": 255.79,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                255.46,
+                256.31,
+                256.91,
+                257.66,
+                255.3
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PLD",
+            "Tahmin": 128.32,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                129.98,
+                129.28,
+                128.87,
+                127.02,
+                128.5
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PRU",
+            "Tahmin": 117.87,
+            "buysell": "sat",
+            "GercekDegerler": [
+                116.26,
+                117.73,
+                118.68,
+                119.44,
+                121.8
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PEG",
+            "Tahmin": 84.05,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                84.16,
+                84.77,
+                84.73,
+                84.24,
+                83.44
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PTC",
+            "Tahmin": 173.93,
+            "buysell": "sat",
+            "GercekDegerler": [
+                172.23,
+                173.76,
+                175.7,
+                175.13,
+                179.13
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PSA",
+            "Tahmin": 359.23,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                359.16,
+                362.99,
+                357.57,
+                360.72,
+                358.62
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PHM",
+            "Tahmin": 140.43,
+            "buysell": "sat",
+            "GercekDegerler": [
+                139.54,
+                140.06,
+                140.46,
+                140.99,
+                144.98
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "QRVO",
+            "Tahmin": 101.43,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                107.65,
+                100.46,
+                100,
+                99.8,
+                103.17
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "PWR",
+            "Tahmin": 272.29,
+            "buysell": "sat",
+            "GercekDegerler": [
+                269.54,
+                271.54,
+                273.92,
+                272.06,
+                289.73
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "QCOM",
+            "Tahmin": 168.3,
+            "buysell": "sat",
+            "GercekDegerler": [
+                167.73,
+                166.61,
+                168.7,
+                168.3,
+                173.92
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DGX",
+            "Tahmin": 155.04,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                154.38,
+                156.36,
+                155.38,
+                155.48,
+                155.12
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "RL",
+            "Tahmin": 180.58,
+            "buysell": "sat",
+            "GercekDegerler": [
+                178.64,
+                181.44,
+                184.21,
+                183.61,
+                184.76
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "RJF",
+            "Tahmin": 119.6,
+            "buysell": "sat",
+            "GercekDegerler": [
+                117.89,
+                119.73,
+                120.68,
+                121.12,
+                124.11
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "RTX",
+            "Tahmin": 118.53,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                119.12,
+                119.2,
+                118.73,
+                118.04,
+                118.82
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "O",
+            "Tahmin": 61.59,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                62.71,
+                62.68,
+                62.49,
+                62.19,
+                60.7
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "REG",
+            "Tahmin": 73.3,
+            "buysell": "al",
+            "GercekDegerler": [
+                74.68,
+                74.77,
+                73.68,
+                73.36,
+                72.13
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "REGN",
+            "Tahmin": 1145.2,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                1153.35,
+                1153.08,
+                1146.75,
+                1138.81,
+                1150.19
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "RF",
+            "Tahmin": 22.42,
+            "buysell": "sat",
+            "GercekDegerler": [
+                21.97,
+                22.3,
+                22.53,
+                22.72,
+                23.36
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "RSG",
+            "Tahmin": 201.89,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                205.79,
+                205.36,
+                201.75,
+                199.18,
+                200.91
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "RMD",
+            "Tahmin": 243.64,
+            "buysell": "notr",
+            "GercekDegerler": [
+                248.93,
+                251.77,
+                250.88,
+                238.03,
+                242.98
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "RVTY",
+            "Tahmin": 122.74,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                122.03,
+                122.8,
+                122.71,
+                124.59,
+                126.48
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ROK",
+            "Tahmin": 263.63,
+            "buysell": "sat",
+            "GercekDegerler": [
+                262.92,
+                262.08,
+                263.2,
+                262.74,
+                268.23
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ROL",
+            "Tahmin": 50.58,
+            "buysell": "notr",
+            "GercekDegerler": [
+                50.47,
+                50.91,
+                51.4,
+                50.25,
+                50.1
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ROP",
+            "Tahmin": 553.27,
+            "buysell": "sat",
+            "GercekDegerler": [
+                551.84,
+                556.56,
+                551.83,
+                549.93,
+                560.86
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ROST",
+            "Tahmin": 152.03,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                155.25,
+                153.17,
+                150.32,
+                150.73,
+                154.44
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "RCL",
+            "Tahmin": 168.69,
+            "buysell": "sat",
+            "GercekDegerler": [
+                167.96,
+                169.74,
+                168.4,
+                168.55,
+                171.56
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SPGI",
+            "Tahmin": 522.0,
+            "buysell": "sat",
+            "GercekDegerler": [
+                519.45,
+                527.38,
+                522.38,
+                519.52,
+                524.22
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "CRM",
+            "Tahmin": 255.61,
+            "buysell": "sat",
+            "GercekDegerler": [
+                254.57,
+                256.91,
+                255.19,
+                252.43,
+                265.99
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SBAC",
+            "Tahmin": 241.03,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                242.95,
+                245.09,
+                245,
+                239.91,
+                238.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SLB",
+            "Tahmin": 40.61,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                39.96,
+                40.4,
+                41.5,
+                41.42,
+                42.75
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "STX",
+            "Tahmin": 101.69,
+            "buysell": "sat",
+            "GercekDegerler": [
+                102.13,
+                101.44,
+                102.07,
+                100.93,
+                104.12
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SRE",
+            "Tahmin": 83.08,
+            "buysell": "notr",
+            "GercekDegerler": [
+                82.97,
+                83.6,
+                83.95,
+                82.94,
+                82.51
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "NOW",
+            "Tahmin": 888.07,
+            "buysell": "sat",
+            "GercekDegerler": [
+                878.95,
+                892.46,
+                885.83,
+                890.39,
+                919.25
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SHW",
+            "Tahmin": 376.77,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                375.4,
+                379.06,
+                378,
+                375.31,
+                379.75
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SPG",
+            "Tahmin": 164.61,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                164.02,
+                164.9,
+                164.35,
+                164.35,
+                167.06
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SWKS",
+            "Tahmin": 98.12,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                102.47,
+                97.25,
+                96.75,
+                96.23,
+                99.46
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SJM",
+            "Tahmin": 119.91,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                120.74,
+                120.88,
+                119.71,
+                120.48,
+                119.3
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SW",
+            "Tahmin": 45.87,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                44.92,
+                46.73,
+                47.33,
+                47.86,
+                49.02
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SNA",
+            "Tahmin": 281.41,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                280.44,
+                281.44,
+                280.08,
+                280.66,
+                286.11
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SOLV",
+            "Tahmin": 70.48,
+            "buysell": "sat",
+            "GercekDegerler": [
+                70,
+                71.79,
+                72.33,
+                72.13,
+                72.34
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SO",
+            "Tahmin": 89.27,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                89.44,
+                89.89,
+                89.65,
+                89.01,
+                88.86
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "LUV",
+            "Tahmin": 28.57,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                28.68,
+                28.54,
+                28.44,
+                28.9,
+                28.94
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SWK",
+            "Tahmin": 102.67,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                101.35,
+                102.59,
+                103,
+                104.87,
+                108.02
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SBUX",
+            "Tahmin": 96.9,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                98.57,
+                96.31,
+                96.44,
+                96.12,
+                96.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "STT",
+            "Tahmin": 85.27,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                83.28,
+                85.46,
+                86.69,
+                87.16,
+                89.31
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "STLD",
+            "Tahmin": 113.0,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                112.84,
+                111.01,
+                114.49,
+                115.12,
+                120.09
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "STE",
+            "Tahmin": 241.11,
+            "buysell": "notr",
+            "GercekDegerler": [
+                244.83,
+                243.73,
+                241.68,
+                238.38,
+                239.46
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SYK",
+            "Tahmin": 365.5,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                370.25,
+                371.96,
+                363.95,
+                361.36,
+                365.05
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SMCI",
+            "Tahmin": 441.38,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                457.16,
+                449.1,
+                439.38,
+                436.88,
+                437.2
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SYF",
+            "Tahmin": 48.12,
+            "buysell": "sat",
+            "GercekDegerler": [
+                47.13,
+                47.33,
+                49.19,
+                48.89,
+                51.03
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SNPS",
+            "Tahmin": 495.3,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                490.07,
+                498.57,
+                502.25,
+                495.95,
+                514.12
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "SYY",
+            "Tahmin": 75.81,
+            "buysell": "al",
+            "GercekDegerler": [
+                76.52,
+                77.12,
+                77.78,
+                74.54,
+                74.14
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TMUS",
+            "Tahmin": 200.6,
+            "buysell": "notr",
+            "GercekDegerler": [
+                202.83,
+                205.85,
+                202.7,
+                196.68,
+                199.64
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TROW",
+            "Tahmin": 105.73,
+            "buysell": "sat",
+            "GercekDegerler": [
+                104.56,
+                105.865,
+                107.92,
+                108.13,
+                110.55
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TTWO",
+            "Tahmin": 152.56,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                152.18,
+                152.45,
+                152.71,
+                153.33,
+                153.66
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TPR",
+            "Tahmin": 42.96,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                42.76,
+                43.26,
+                43.28,
+                43.13,
+                42.82
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TRGP",
+            "Tahmin": 149.54,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                148.19,
+                150.59,
+                152.02,
+                152.19,
+                152.21
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TGT",
+            "Tahmin": 152.47,
+            "buysell": "sat",
+            "GercekDegerler": [
+                151.36,
+                152.84,
+                151.96,
+                153.6,
+                156.49
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TEL",
+            "Tahmin": 146.68,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                145.84,
+                145.88,
+                147.78,
+                145.92,
+                149.38
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TDY",
+            "Tahmin": 429.62,
+            "buysell": "sat",
+            "GercekDegerler": [
+                427.75,
+                429.14,
+                428.89,
+                426.75,
+                436.61
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TFX",
+            "Tahmin": 242.72,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                246.05,
+                246.05,
+                241.44,
+                241.53,
+                245.68
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TER",
+            "Tahmin": 129.46,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                131.23,
+                127.98,
+                129.71,
+                127.86,
+                133.82
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TSLA",
+            "Tahmin": 229.89,
+            "buysell": "sat",
+            "GercekDegerler": [
+                230.29,
+                226.78,
+                227.87,
+                227.2,
+                243.92
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TXN",
+            "Tahmin": 200.87,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                199.93,
+                198.47,
+                201.39,
+                200.71,
+                207.6
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TXT",
+            "Tahmin": 87.98,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                87.7,
+                88.33,
+                88.69,
+                87.49,
+                88.94
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TMO",
+            "Tahmin": 612.33,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                611.17,
+                614.15,
+                610.49,
+                610.12,
+                620.25
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TJX",
+            "Tahmin": 118.2,
+            "buysell": "notr",
+            "GercekDegerler": [
+                119.81,
+                119.61,
+                117.84,
+                117.25,
+                118.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TSCO",
+            "Tahmin": 278.3,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                282.96,
+                283.39,
+                276.75,
+                275.49,
+                273.97
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TT",
+            "Tahmin": 368.58,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                364.23,
+                368.89,
+                374.6,
+                371.59,
+                381.39
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TDG",
+            "Tahmin": 1372.81,
+            "buysell": "sat",
+            "GercekDegerler": [
+                1367.76,
+                1372.92,
+                1375.45,
+                1373.7,
+                1389.85
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TRV",
+            "Tahmin": 239.33,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                237.83,
+                242.26,
+                241.54,
+                239.75,
+                237.58
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TRMB",
+            "Tahmin": 57.64,
+            "buysell": "sat",
+            "GercekDegerler": [
+                56.5,
+                58.41,
+                58.31,
+                58.05,
+                60.2
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TFC",
+            "Tahmin": 42.06,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                41.84,
+                42.13,
+                41.88,
+                42.02,
+                42.93
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TYL",
+            "Tahmin": 581.04,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                581.96,
+                585.73,
+                579.39,
+                579.49,
+                580.25
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "TSN",
+            "Tahmin": 61.57,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                61.4,
+                61.85,
+                61.8,
+                61.81,
+                61.67
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "USB",
+            "Tahmin": 44.94,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                44.62,
+                44.69,
+                44.68,
+                45.18,
+                46.47
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "UBER",
+            "Tahmin": 72.38,
+            "buysell": "sat",
+            "GercekDegerler": [
+                72.48,
+                71.52,
+                72.78,
+                73.5,
+                75.28
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "UDR",
+            "Tahmin": 46.47,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                47.13,
+                46.97,
+                46.37,
+                46.19,
+                46.15
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ULTA",
+            "Tahmin": 387.36,
+            "buysell": "sat",
+            "GercekDegerler": [
+                378.34,
+                389.29,
+                397,
+                402.72,
+                403.29
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "UNP",
+            "Tahmin": 250.31,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                249.12,
+                252.43,
+                253.55,
+                251.2,
+                248.44
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "UAL",
+            "Tahmin": 51.06,
+            "buysell": "sat",
+            "GercekDegerler": [
+                50.22,
+                51.34,
+                52.64,
+                52.96,
+                52.59
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "UPS",
+            "Tahmin": 128.77,
+            "buysell": "sat",
+            "GercekDegerler": [
+                127.24,
+                128.91,
+                130.65,
+                130.65,
+                132.13
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "URI",
+            "Tahmin": 744.94,
+            "buysell": "sat",
+            "GercekDegerler": [
+                729.47,
+                741.96,
+                771.26,
+                773.29,
+                793.94
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "UNH",
+            "Tahmin": 584.14,
+            "buysell": "al",
+            "GercekDegerler": [
+                594.32,
+                589.14,
+                577.96,
+                580.65,
+                577.07
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "UHS",
+            "Tahmin": 233.84,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                232.56,
+                234.99,
+                232.28,
+                234.69,
+                237.79
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VLO",
+            "Tahmin": 134.91,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                134.26,
+                133.75,
+                135.8,
+                136.66,
+                138.69
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VTR",
+            "Tahmin": 63.48,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                65.06,
+                64.7,
+                64.43,
+                64.21,
+                62.2
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VLTO",
+            "Tahmin": 108.71,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                110.02,
+                109.96,
+                108.94,
+                108.09,
+                109.47
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VRSN",
+            "Tahmin": 180.58,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                182.81,
+                182.46,
+                182.86,
+                179.27,
+                182.42
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VRSK",
+            "Tahmin": 266.56,
+            "buysell": "al",
+            "GercekDegerler": [
+                268.79,
+                269.4,
+                267.02,
+                264.76,
+                265.96
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VZ",
+            "Tahmin": 44.29,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                44.43,
+                45,
+                44.08,
+                43.88,
+                43.94
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VRTX",
+            "Tahmin": 479.32,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                485.37,
+                489.43,
+                481.26,
+                474.16,
+                477.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VTRS",
+            "Tahmin": 11.72,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                11.66,
+                11.81,
+                11.82,
+                11.9,
+                11.9
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VICI",
+            "Tahmin": 33.37,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                33.96,
+                34.04,
+                33.71,
+                33.06,
+                32.81
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "V",
+            "Tahmin": 287.73,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                287.35,
+                290.48,
+                291.56,
+                288.48,
+                285.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VST",
+            "Tahmin": 87.58,
+            "buysell": "sat",
+            "GercekDegerler": [
+                85.55,
+                89.4,
+                91.15,
+                91.19,
+                92.74
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "VMC",
+            "Tahmin": 242.32,
+            "buysell": "sat",
+            "GercekDegerler": [
+                237.47,
+                242.87,
+                245.12,
+                244.4,
+                253.67
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WRB",
+            "Tahmin": 58.0,
+            "buysell": "al",
+            "GercekDegerler": [
+                58.34,
+                58.75,
+                58.13,
+                57.81,
+                57.52
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "GWW",
+            "Tahmin": 1002.17,
+            "buysell": "guclu al",
+            "GercekDegerler": [
+                993.82,
+                1008.21,
+                1013.98,
+                1013.18,
+                1030.1
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WAB",
+            "Tahmin": 171.41,
+            "buysell": "sat",
+            "GercekDegerler": [
+                168.98,
+                170.19,
+                174.13,
+                173.72,
+                178.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WBA",
+            "Tahmin": 9.06,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                9.21,
+                9.02,
+                9.06,
+                9.01,
+                8.98
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WMT",
+            "Tahmin": 78.89,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                80.6,
+                80.56,
+                78.6,
+                79.03,
+                78.04
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "DIS",
+            "Tahmin": 91.22,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                90.55,
+                91.85,
+                92.86,
+                93.58,
+                93.45
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WBD",
+            "Tahmin": 8.44,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                8.49,
+                8.56,
+                8.45,
+                8.42,
+                8.4
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WM",
+            "Tahmin": 204.37,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                208.05,
+                208.32,
+                203.12,
+                201.88,
+                204.64
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WAT",
+            "Tahmin": 328.8,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                325.86,
+                328.65,
+                328.97,
+                333.37,
+                338.45
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WEC",
+            "Tahmin": 94.85,
+            "buysell": "guclu sat",
+            "GercekDegerler": [
+                95.85,
+                96.14,
+                95.74,
+                95.24,
+                93.78
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WFC",
+            "Tahmin": 53.68,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                52.78,
+                53.79,
+                54.51,
+                54.26,
+                55.8
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WELL",
+            "Tahmin": 127.35,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                129.75,
+                129.18,
+                127.46,
+                127.67,
+                125.39
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WST",
+            "Tahmin": 299.38,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                300.67,
+                296.78,
+                295.86,
+                309.18,
+                311.2
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WDC",
+            "Tahmin": 64.5,
+            "buysell": "sat",
+            "GercekDegerler": [
+                65.02,
+                64.09,
+                65.89,
+                64.42,
+                65.97
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WY",
+            "Tahmin": 32.8,
+            "buysell": "sat",
+            "GercekDegerler": [
+                32.45,
+                32.51,
+                33.25,
+                33.1,
+                33.59
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WMB",
+            "Tahmin": 45.15,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                45.03,
+                45.44,
+                45.53,
+                45.18,
+                44.89
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WTW",
+            "Tahmin": 290.46,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                290.7,
+                293.97,
+                292.94,
+                292.5,
+                288.81
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "WYNN",
+            "Tahmin": 78.88,
+            "buysell": "sat",
+            "GercekDegerler": [
+                78.46,
+                78.95,
+                80,
+                78.78,
+                80.18
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "XEL",
+            "Tahmin": 64.1,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                63.84,
+                64.56,
+                64.5,
+                64.36,
+                64.06
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "XYL",
+            "Tahmin": 132.23,
+            "buysell": "sat",
+            "GercekDegerler": [
+                130.83,
+                132.79,
+                133.14,
+                132.86,
+                136.3
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "YUM",
+            "Tahmin": 132.37,
+            "buysell": "al",
+            "GercekDegerler": [
+                133.65,
+                134.56,
+                132.35,
+                130.6,
+                131.09
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ZBRA",
+            "Tahmin": 343.1,
+            "buysell": "sat",
+            "GercekDegerler": [
+                337.48,
+                343.79,
+                354.52,
+                351.83,
+                363.79
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ZBH",
+            "Tahmin": 106.52,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                106.26,
+                107.43,
+                106.24,
+                106.28,
+                106.34
+            ],
+            "TahminTarihi": "2024-09-23"
+        },
+        {
+            "HisseKodu": "ZTS",
+            "Tahmin": 192.9,
+            "buysell": "bekle",
+            "GercekDegerler": [
+                191.09,
+                194.25,
+                195.71,
+                196.48,
+                193.24
+            ],
+            "TahminTarihi": "2024-09-23"
+        }
+    ]
+}

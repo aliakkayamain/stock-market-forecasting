@@ -1,0 +1,2519 @@
+{
+    "Hisseler": [
+        {
+            "HisseKodu": "MMM",
+            "Tahmin": 129.85,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AOS",
+            "Tahmin": 78.46,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ABT",
+            "Tahmin": 116.63,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ABBV",
+            "Tahmin": 195.78,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ACN",
+            "Tahmin": 344.82,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ADBE",
+            "Tahmin": 558.44,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AMD",
+            "Tahmin": 142.21,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AES",
+            "Tahmin": 16.91,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AFL",
+            "Tahmin": 108.16,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "A",
+            "Tahmin": 137.33,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "APD",
+            "Tahmin": 276.81,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ABNB",
+            "Tahmin": 115.73,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AKAM",
+            "Tahmin": 95.72,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ALB",
+            "Tahmin": 80.83,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ARE",
+            "Tahmin": 119.92,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ALGN",
+            "Tahmin": 225.83,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ALLE",
+            "Tahmin": 136.33,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LNT",
+            "Tahmin": 59.15,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ALL",
+            "Tahmin": 185.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GOOGL",
+            "Tahmin": 150.5,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GOOG",
+            "Tahmin": 151.38,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MO",
+            "Tahmin": 53.14,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AMZN",
+            "Tahmin": 179.08,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AMCR",
+            "Tahmin": 10.97,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AEE",
+            "Tahmin": 83.91,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AAL",
+            "Tahmin": 10.84,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AEP",
+            "Tahmin": 103.27,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AXP",
+            "Tahmin": 249.85,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AIG",
+            "Tahmin": 72.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AMT",
+            "Tahmin": 238.88,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AWK",
+            "Tahmin": 146.67,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AMP",
+            "Tahmin": 435.8,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AME",
+            "Tahmin": 165.1,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AMGN",
+            "Tahmin": 327.88,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "APH",
+            "Tahmin": 61.38,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ADI",
+            "Tahmin": 220.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ANSS",
+            "Tahmin": 311.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AON",
+            "Tahmin": 347.51,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "APA",
+            "Tahmin": 23.9,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AAPL",
+            "Tahmin": 221.07,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AMAT",
+            "Tahmin": 179.85,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "APTV",
+            "Tahmin": 66.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ACGL",
+            "Tahmin": 110.46,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ADM",
+            "Tahmin": 59.33,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ANET",
+            "Tahmin": 330.69,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AJG",
+            "Tahmin": 296.46,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AIZ",
+            "Tahmin": 190.87,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "T",
+            "Tahmin": 21.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ATO",
+            "Tahmin": 134.75,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ADSK",
+            "Tahmin": 257.79,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ADP",
+            "Tahmin": 276.96,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AZO",
+            "Tahmin": 3115.5,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AVB",
+            "Tahmin": 228.18,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AVY",
+            "Tahmin": 218.82,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AXON",
+            "Tahmin": 364.43,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BKR",
+            "Tahmin": 33.22,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BALL",
+            "Tahmin": 64.65,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BAC",
+            "Tahmin": 38.94,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BK",
+            "Tahmin": 67.94,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BBWI",
+            "Tahmin": 26.91,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BAX",
+            "Tahmin": 39.3,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BDX",
+            "Tahmin": 234.83,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BRK.B",
+            "Tahmin": 452.31,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BBY",
+            "Tahmin": 97.02,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BIO",
+            "Tahmin": 321.24,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TECH",
+            "Tahmin": 72.78,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BIIB",
+            "Tahmin": 197.9,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BLK",
+            "Tahmin": 880.08,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BX",
+            "Tahmin": 142.36,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BA",
+            "Tahmin": 159.18,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BKNG",
+            "Tahmin": 3830.41,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BWA",
+            "Tahmin": 31.86,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BSX",
+            "Tahmin": 82.97,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BMY",
+            "Tahmin": 48.59,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "AVGO",
+            "Tahmin": 147.16,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BR",
+            "Tahmin": 211.71,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BRO",
+            "Tahmin": 101.87,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BF.B",
+            "Tahmin": 45.83,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BLDR",
+            "Tahmin": 169.05,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BG",
+            "Tahmin": 96.95,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BXP",
+            "Tahmin": 75.65,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CDNS",
+            "Tahmin": 256.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CZR",
+            "Tahmin": 36.44,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CPT",
+            "Tahmin": 122.33,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CPB",
+            "Tahmin": 49.9,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "COF",
+            "Tahmin": 138.25,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CAH",
+            "Tahmin": 112.97,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KMX",
+            "Tahmin": 77.09,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CCL",
+            "Tahmin": 16.21,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CARR",
+            "Tahmin": 72.27,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CTLT",
+            "Tahmin": 59.7,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CAT",
+            "Tahmin": 336.09,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CBOE",
+            "Tahmin": 210.49,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CBRE",
+            "Tahmin": 116.3,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CDW",
+            "Tahmin": 215.74,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CE",
+            "Tahmin": 120.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "COR",
+            "Tahmin": 236.78,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CNC",
+            "Tahmin": 72.11,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CNP",
+            "Tahmin": 27.59,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CF",
+            "Tahmin": 77.49,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CHRW",
+            "Tahmin": 100.04,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CRL",
+            "Tahmin": 190.14,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SCHW",
+            "Tahmin": 62.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CHTR",
+            "Tahmin": 327.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CVX",
+            "Tahmin": 138.79,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CMG",
+            "Tahmin": 54.79,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CB",
+            "Tahmin": 287.6,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CHD",
+            "Tahmin": 104.03,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CI",
+            "Tahmin": 359.07,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CINF",
+            "Tahmin": 135.47,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CTAS",
+            "Tahmin": 203.06,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CSCO",
+            "Tahmin": 48.95,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "C",
+            "Tahmin": 57.69,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CFG",
+            "Tahmin": 40.11,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CLX",
+            "Tahmin": 164.85,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CME",
+            "Tahmin": 217.67,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CMS",
+            "Tahmin": 69.35,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KO",
+            "Tahmin": 71.34,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CTSH",
+            "Tahmin": 76.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CL",
+            "Tahmin": 106.27,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CMCSA",
+            "Tahmin": 39.04,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CAG",
+            "Tahmin": 31.92,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "COP",
+            "Tahmin": 103.65,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ED",
+            "Tahmin": 103.86,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "STZ",
+            "Tahmin": 250.18,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CEG",
+            "Tahmin": 178.54,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "COO",
+            "Tahmin": 108.53,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CPRT",
+            "Tahmin": 49.55,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GLW",
+            "Tahmin": 41.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CPAY",
+            "Tahmin": 306.59,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CTVA",
+            "Tahmin": 55.56,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CSGP",
+            "Tahmin": 78.6,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "COST",
+            "Tahmin": 897.55,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CTRA",
+            "Tahmin": 22.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CRWD",
+            "Tahmin": 249.42,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CCI",
+            "Tahmin": 118.51,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CSX",
+            "Tahmin": 33.47,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CMI",
+            "Tahmin": 296.1,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CVS",
+            "Tahmin": 56.65,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DHR",
+            "Tahmin": 273.01,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DRI",
+            "Tahmin": 157.09,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DVA",
+            "Tahmin": 153.42,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DAY",
+            "Tahmin": 57.16,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DECK",
+            "Tahmin": 898.72,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DE",
+            "Tahmin": 388.63,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DAL",
+            "Tahmin": 43.83,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DVN",
+            "Tahmin": 40.14,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DXCM",
+            "Tahmin": 68.88,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FANG",
+            "Tahmin": 172.08,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DLR",
+            "Tahmin": 153.53,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DFS",
+            "Tahmin": 130.41,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DG",
+            "Tahmin": 81.51,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DLTR",
+            "Tahmin": 66.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "D",
+            "Tahmin": 57.51,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DPZ",
+            "Tahmin": 409.02,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DOV",
+            "Tahmin": 181.26,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DOW",
+            "Tahmin": 50.64,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DHI",
+            "Tahmin": 187.56,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DTE",
+            "Tahmin": 124.88,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DUK",
+            "Tahmin": 116.48,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DD",
+            "Tahmin": 79.98,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EMN",
+            "Tahmin": 99.11,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ETN",
+            "Tahmin": 292.27,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EBAY",
+            "Tahmin": 60.47,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ECL",
+            "Tahmin": 249.67,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EIX",
+            "Tahmin": 84.75,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EW",
+            "Tahmin": 66.6,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EA",
+            "Tahmin": 144.25,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ELV",
+            "Tahmin": 545.21,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EMR",
+            "Tahmin": 99.94,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ENPH",
+            "Tahmin": 104.99,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ETR",
+            "Tahmin": 122.81,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EOG",
+            "Tahmin": 118.79,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EPAM",
+            "Tahmin": 202.96,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EQT",
+            "Tahmin": 32.24,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EFX",
+            "Tahmin": 299.04,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EQIX",
+            "Tahmin": 846.71,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EQR",
+            "Tahmin": 76.02,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ESS",
+            "Tahmin": 303.67,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EL",
+            "Tahmin": 85.1,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ETSY",
+            "Tahmin": 52.43,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EG",
+            "Tahmin": 379.36,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EVRG",
+            "Tahmin": 60.34,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ES",
+            "Tahmin": 67.74,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EXC",
+            "Tahmin": 39.09,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EXPE",
+            "Tahmin": 131.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EXPD",
+            "Tahmin": 121.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "EXR",
+            "Tahmin": 175.75,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "XOM",
+            "Tahmin": 111.55,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FFIV",
+            "Tahmin": 202.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FDS",
+            "Tahmin": 434.31,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FICO",
+            "Tahmin": 1798.73,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FAST",
+            "Tahmin": 68.63,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FRT",
+            "Tahmin": 116.53,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FDX",
+            "Tahmin": 284.25,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FIS",
+            "Tahmin": 82.93,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FITB",
+            "Tahmin": 41.27,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FSLR",
+            "Tahmin": 213.72,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FE",
+            "Tahmin": 44.18,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FI",
+            "Tahmin": 171.62,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FMC",
+            "Tahmin": 61.59,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "F",
+            "Tahmin": 10.44,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FTNT",
+            "Tahmin": 75.19,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FTV",
+            "Tahmin": 72.48,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FOXA",
+            "Tahmin": 39.39,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FOX",
+            "Tahmin": 36.42,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "BEN",
+            "Tahmin": 19.56,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "FCX",
+            "Tahmin": 40.85,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GRMN",
+            "Tahmin": 177.44,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IT",
+            "Tahmin": 496.6,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GE",
+            "Tahmin": 166.86,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GEHC",
+            "Tahmin": 85.72,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GEV",
+            "Tahmin": 207.9,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GEN",
+            "Tahmin": 25.81,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GNRC",
+            "Tahmin": 141.44,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GD",
+            "Tahmin": 301.19,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GIS",
+            "Tahmin": 73.76,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GM",
+            "Tahmin": 45.57,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GPC",
+            "Tahmin": 135.87,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GILD",
+            "Tahmin": 80.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GPN",
+            "Tahmin": 109.59,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GL",
+            "Tahmin": 102.24,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GDDY",
+            "Tahmin": 150.79,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GS",
+            "Tahmin": 474.16,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HAL",
+            "Tahmin": 28.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HIG",
+            "Tahmin": 115.21,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HAS",
+            "Tahmin": 67.61,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HCA",
+            "Tahmin": 387.2,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DOC",
+            "Tahmin": 22.24,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HSIC",
+            "Tahmin": 67.98,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HSY",
+            "Tahmin": 200.3,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HES",
+            "Tahmin": 127.18,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HPE",
+            "Tahmin": 16.47,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HLT",
+            "Tahmin": 212.69,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HOLX",
+            "Tahmin": 81.22,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HD",
+            "Tahmin": 369.74,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HON",
+            "Tahmin": 202.14,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HRL",
+            "Tahmin": 31.77,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HST",
+            "Tahmin": 16.88,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HWM",
+            "Tahmin": 93.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HPQ",
+            "Tahmin": 33.5,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HUBB",
+            "Tahmin": 384.09,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HUM",
+            "Tahmin": 331.05,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HBAN",
+            "Tahmin": 14.33,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "HII",
+            "Tahmin": 260.15,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IBM",
+            "Tahmin": 206.56,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IEX",
+            "Tahmin": 197.69,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IDXX",
+            "Tahmin": 486.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ITW",
+            "Tahmin": 247.94,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "INCY",
+            "Tahmin": 62.72,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IR",
+            "Tahmin": 88.17,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PODD",
+            "Tahmin": 224.38,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "INTC",
+            "Tahmin": 19.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ICE",
+            "Tahmin": 160.83,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IFF",
+            "Tahmin": 103.11,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IP",
+            "Tahmin": 47.4,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IPG",
+            "Tahmin": 30.82,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "INTU",
+            "Tahmin": 634.09,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ISRG",
+            "Tahmin": 483.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IVZ",
+            "Tahmin": 15.86,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "INVH",
+            "Tahmin": 36.07,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IQV",
+            "Tahmin": 237.19,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "IRM",
+            "Tahmin": 112.22,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "JBHT",
+            "Tahmin": 169.93,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "JBL",
+            "Tahmin": 102.5,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "JKHY",
+            "Tahmin": 173.31,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "J",
+            "Tahmin": 142.95,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "JNJ",
+            "Tahmin": 165.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "JCI",
+            "Tahmin": 69.64,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "JPM",
+            "Tahmin": 207.62,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "JNPR",
+            "Tahmin": 38.42,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "K",
+            "Tahmin": 80.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KVUE",
+            "Tahmin": 23.1,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KDP",
+            "Tahmin": 37.22,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KEY",
+            "Tahmin": 15.94,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KEYS",
+            "Tahmin": 146.93,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KMB",
+            "Tahmin": 143.72,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KIM",
+            "Tahmin": 23.48,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KMI",
+            "Tahmin": 20.92,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KKR",
+            "Tahmin": 118.71,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KLAC",
+            "Tahmin": 719.12,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KHC",
+            "Tahmin": 35.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "KR",
+            "Tahmin": 52.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LHX",
+            "Tahmin": 227.8,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LH",
+            "Tahmin": 221.38,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LRCX",
+            "Tahmin": 740.45,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LW",
+            "Tahmin": 62.9,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LVS",
+            "Tahmin": 39.44,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LDOS",
+            "Tahmin": 153.25,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LEN",
+            "Tahmin": 180.16,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LLY",
+            "Tahmin": 906.57,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LIN",
+            "Tahmin": 464.4,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LYV",
+            "Tahmin": 95.96,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LKQ",
+            "Tahmin": 39.6,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LMT",
+            "Tahmin": 570.05,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "L",
+            "Tahmin": 78.73,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LOW",
+            "Tahmin": 247.62,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LULU",
+            "Tahmin": 252.19,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LYB",
+            "Tahmin": 93.86,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MTB",
+            "Tahmin": 166.62,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MRO",
+            "Tahmin": 26.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MPC",
+            "Tahmin": 160.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MKTX",
+            "Tahmin": 256.35,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MAR",
+            "Tahmin": 227.64,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MMC",
+            "Tahmin": 230.08,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MLM",
+            "Tahmin": 508.99,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MAS",
+            "Tahmin": 78.18,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MA",
+            "Tahmin": 488.55,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MTCH",
+            "Tahmin": 35.44,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MKC",
+            "Tahmin": 83.01,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MCD",
+            "Tahmin": 292.1,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MCK",
+            "Tahmin": 508.54,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MDT",
+            "Tahmin": 90.31,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MRK",
+            "Tahmin": 115.02,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "META",
+            "Tahmin": 507.71,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MET",
+            "Tahmin": 75.16,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MTD",
+            "Tahmin": 1381.98,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MGM",
+            "Tahmin": 35.31,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MCHP",
+            "Tahmin": 75.95,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MU",
+            "Tahmin": 87.38,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MSFT",
+            "Tahmin": 412.48,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MAA",
+            "Tahmin": 161.99,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MRNA",
+            "Tahmin": 72.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MHK",
+            "Tahmin": 149.67,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MOH",
+            "Tahmin": 332.64,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TAP",
+            "Tahmin": 54.53,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MDLZ",
+            "Tahmin": 74.82,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MPWR",
+            "Tahmin": 854.05,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MNST",
+            "Tahmin": 50.12,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MCO",
+            "Tahmin": 479.79,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MS",
+            "Tahmin": 97.23,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MOS",
+            "Tahmin": 24.95,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MSI",
+            "Tahmin": 437.66,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "MSCI",
+            "Tahmin": 559.74,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NDAQ",
+            "Tahmin": 72.0,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NTAP",
+            "Tahmin": 115.25,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NFLX",
+            "Tahmin": 678.87,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NEM",
+            "Tahmin": 51.33,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NWSA",
+            "Tahmin": 26.2,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NWS",
+            "Tahmin": 27.28,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NEE",
+            "Tahmin": 82.2,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NKE",
+            "Tahmin": 78.56,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NI",
+            "Tahmin": 33.57,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NDSN",
+            "Tahmin": 248.55,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NSC",
+            "Tahmin": 251.5,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NTRS",
+            "Tahmin": 87.5,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NOC",
+            "Tahmin": 518.77,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NCLH",
+            "Tahmin": 17.83,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NRG",
+            "Tahmin": 78.81,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NUE",
+            "Tahmin": 139.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NVDA",
+            "Tahmin": 108.67,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NVR",
+            "Tahmin": 9150.74,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NXPI",
+            "Tahmin": 227.49,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ORLY",
+            "Tahmin": 1118.34,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "OXY",
+            "Tahmin": 51.19,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ODFL",
+            "Tahmin": 189.76,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "OMC",
+            "Tahmin": 98.83,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ON",
+            "Tahmin": 69.15,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "OKE",
+            "Tahmin": 90.84,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ORCL",
+            "Tahmin": 146.91,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "OTIS",
+            "Tahmin": 92.34,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PCAR",
+            "Tahmin": 94.53,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PKG",
+            "Tahmin": 205.94,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PANW",
+            "Tahmin": 343.49,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PARA",
+            "Tahmin": 10.08,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PH",
+            "Tahmin": 582.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PAYX",
+            "Tahmin": 133.18,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PAYC",
+            "Tahmin": 165.58,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PYPL",
+            "Tahmin": 69.2,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PNR",
+            "Tahmin": 87.82,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PEP",
+            "Tahmin": 176.79,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PFE",
+            "Tahmin": 29.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PCG",
+            "Tahmin": 19.69,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PM",
+            "Tahmin": 125.66,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PSX",
+            "Tahmin": 125.97,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PNW",
+            "Tahmin": 89.39,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PNC",
+            "Tahmin": 178.69,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "POOL",
+            "Tahmin": 347.55,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PPG",
+            "Tahmin": 125.93,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PPL",
+            "Tahmin": 32.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PFG",
+            "Tahmin": 79.55,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PG",
+            "Tahmin": 175.21,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PGR",
+            "Tahmin": 250.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PLD",
+            "Tahmin": 130.77,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PRU",
+            "Tahmin": 115.07,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PEG",
+            "Tahmin": 81.62,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PTC",
+            "Tahmin": 168.23,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PSA",
+            "Tahmin": 354.46,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PHM",
+            "Tahmin": 132.87,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "QRVO",
+            "Tahmin": 105.12,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "PWR",
+            "Tahmin": 253.65,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "QCOM",
+            "Tahmin": 162.81,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DGX",
+            "Tahmin": 153.49,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "RL",
+            "Tahmin": 174.04,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "RJF",
+            "Tahmin": 116.55,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "RTX",
+            "Tahmin": 119.88,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "O",
+            "Tahmin": 62.56,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "REG",
+            "Tahmin": 74.58,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "REGN",
+            "Tahmin": 1144.19,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "RF",
+            "Tahmin": 22.15,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "RSG",
+            "Tahmin": 205.29,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "RMD",
+            "Tahmin": 250.29,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "RVTY",
+            "Tahmin": 119.5,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ROK",
+            "Tahmin": 259.08,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ROL",
+            "Tahmin": 50.1,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ROP",
+            "Tahmin": 551.15,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ROST",
+            "Tahmin": 151.8,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "RCL",
+            "Tahmin": 160.77,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SPGI",
+            "Tahmin": 517.21,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "CRM",
+            "Tahmin": 247.95,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SBAC",
+            "Tahmin": 240.82,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SLB",
+            "Tahmin": 39.81,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "STX",
+            "Tahmin": 101.28,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SRE",
+            "Tahmin": 81.92,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "NOW",
+            "Tahmin": 863.85,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SHW",
+            "Tahmin": 367.87,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SPG",
+            "Tahmin": 162.74,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SWKS",
+            "Tahmin": 100.2,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SJM",
+            "Tahmin": 118.48,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SW",
+            "Tahmin": 43.69,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SNA",
+            "Tahmin": 276.91,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SOLV",
+            "Tahmin": 67.57,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SO",
+            "Tahmin": 88.92,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "LUV",
+            "Tahmin": 29.01,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SWK",
+            "Tahmin": 97.08,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SBUX",
+            "Tahmin": 94.55,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "STT",
+            "Tahmin": 82.91,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "STLD",
+            "Tahmin": 109.4,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "STE",
+            "Tahmin": 244.12,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SYK",
+            "Tahmin": 365.07,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SMCI",
+            "Tahmin": 414.31,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SYF",
+            "Tahmin": 46.4,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SNPS",
+            "Tahmin": 469.59,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "SYY",
+            "Tahmin": 77.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TMUS",
+            "Tahmin": 197.47,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TROW",
+            "Tahmin": 103.8,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TTWO",
+            "Tahmin": 153.49,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TPR",
+            "Tahmin": 41.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TRGP",
+            "Tahmin": 144.76,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TGT",
+            "Tahmin": 148.42,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TEL",
+            "Tahmin": 144.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TDY",
+            "Tahmin": 425.65,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TFX",
+            "Tahmin": 244.03,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TER",
+            "Tahmin": 126.18,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TSLA",
+            "Tahmin": 220.92,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TXN",
+            "Tahmin": 198.91,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TXT",
+            "Tahmin": 86.78,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TMO",
+            "Tahmin": 616.23,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TJX",
+            "Tahmin": 117.86,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TSCO",
+            "Tahmin": 274.34,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TT",
+            "Tahmin": 349.52,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TDG",
+            "Tahmin": 1318.15,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TRV",
+            "Tahmin": 235.22,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TRMB",
+            "Tahmin": 54.95,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TFC",
+            "Tahmin": 41.91,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TYL",
+            "Tahmin": 586.09,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "TSN",
+            "Tahmin": 62.68,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "USB",
+            "Tahmin": 44.31,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "UBER",
+            "Tahmin": 69.13,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "UDR",
+            "Tahmin": 45.23,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ULTA",
+            "Tahmin": 375.19,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "UNP",
+            "Tahmin": 249.44,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "UAL",
+            "Tahmin": 48.76,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "UPS",
+            "Tahmin": 128.31,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "URI",
+            "Tahmin": 703.09,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "UNH",
+            "Tahmin": 592.43,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "UHS",
+            "Tahmin": 227.75,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VLO",
+            "Tahmin": 133.93,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VTR",
+            "Tahmin": 64.6,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VLTO",
+            "Tahmin": 109.2,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VRSN",
+            "Tahmin": 180.92,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VRSK",
+            "Tahmin": 270.75,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VZ",
+            "Tahmin": 43.24,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VRTX",
+            "Tahmin": 473.47,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VTRS",
+            "Tahmin": 11.23,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VICI",
+            "Tahmin": 33.78,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "V",
+            "Tahmin": 285.07,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VST",
+            "Tahmin": 77.15,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "VMC",
+            "Tahmin": 233.37,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WRB",
+            "Tahmin": 57.95,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "GWW",
+            "Tahmin": 977.84,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WAB",
+            "Tahmin": 164.38,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WBA",
+            "Tahmin": 8.88,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WMT",
+            "Tahmin": 78.28,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "DIS",
+            "Tahmin": 88.58,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WBD",
+            "Tahmin": 7.15,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WM",
+            "Tahmin": 207.94,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WAT",
+            "Tahmin": 326.02,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WEC",
+            "Tahmin": 95.15,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WFC",
+            "Tahmin": 52.84,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WELL",
+            "Tahmin": 128.24,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WST",
+            "Tahmin": 300.38,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WDC",
+            "Tahmin": 63.01,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WY",
+            "Tahmin": 30.91,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WMB",
+            "Tahmin": 44.71,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WTW",
+            "Tahmin": 289.73,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "WYNN",
+            "Tahmin": 75.98,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "XEL",
+            "Tahmin": 63.64,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "XYL",
+            "Tahmin": 129.76,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "YUM",
+            "Tahmin": 133.3,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ZBRA",
+            "Tahmin": 330.85,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ZBH",
+            "Tahmin": 105.16,
+            "TahminTarihi": "2024-09-16"
+        },
+        {
+            "HisseKodu": "ZTS",
+            "Tahmin": 190.67,
+            "TahminTarihi": "2024-09-16"
+        }
+    ]
+}
